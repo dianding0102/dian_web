@@ -3,7 +3,8 @@
 
 title: Dian's Homepage
 description: >- # this means to ignore newlines until "baseurl:"
-url: "http://localhost:4000" # the base hostname & protocol for the site
+baseurl: '/dian_web'
+url: 'https://dianding0102.github.io'
 og_image: /assets/img/profile-pic.jpg
 google_analytics: "UA-121636368-3"
 
