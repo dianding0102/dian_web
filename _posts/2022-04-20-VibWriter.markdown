@@ -3,6 +3,9 @@ layout: post
 title:  Handwriting recognition system based on vibration signal
 date:   2022-04-20 
 categories: jekyll update
+sjtu_picture:
+  src: /assets/img/title.png
+  alt: website picture
 ---
 
 ### Abstract
