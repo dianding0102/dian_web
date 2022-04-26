@@ -24,5 +24,5 @@ sjtu_picture:
 </p>
 
 <p>
-    In my spare time, I enjoy anime, fitness and travelling. I have a Bichon Frise called Xiao Kui and a Ragdoll cat called Xiao Shin. Due to the epidemic, they are now with my parents and my jurlfriend.
+    In my spare time, I enjoy anime, fitness and travelling. I have a Bichon Frise called Xiao Kui and a Ragdoll cat called Xiao Shin. Due to the epidemic, they are now with my parents and my girlfriend.
 </p>
