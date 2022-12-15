@@ -24,8 +24,8 @@ footer:
   follow:
     - name: GitHub
       link: http://github.com/dianding0102
-    - name: google_analytics
-      link: http://github.com/dianding0102
+    - name: Google Scholar
+      link: https://scholar.google.com/citations?hl=en&user=rLHI_IcAAAAJ&view_op=list_works&gmla=AJsN-F50apYPdsIa90jZ9PSJdIAM-MS0p77mBtukedgetHbJkXqSO9W4dORS5sCZ941V_GQ-yV9tVzv9jDnCZ7e62X-lC0rIsPIWytGrQFOBhdoCiWq-Z3A
 
 # Build settings
 markdown: kramdown
