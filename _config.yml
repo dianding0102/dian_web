@@ -24,6 +24,8 @@ footer:
   follow:
     - name: GitHub
       link: http://github.com/dianding0102
+    - name: Google Scholar
+      link: http://github.com/dianding0102
 
 # Build settings
 markdown: kramdown

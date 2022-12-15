@@ -2,6 +2,9 @@
 layout: work
 title: Publication
 slug: /work
+sjtu_picture:
+  src: /assets/img/title.png
+  alt: website picture
 items:
   - title: IEEE SECON 2021
     image:
