@@ -22,6 +22,8 @@ sjtu_picture:
 
 <p>
 <font size=1>Interests</font>
+</p>
+<p>
 	My current research interests reside in wireless communication and sensing, cyber security and human-computer interaction.
 </p>
 
