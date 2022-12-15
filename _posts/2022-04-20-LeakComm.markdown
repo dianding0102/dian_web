@@ -49,19 +49,19 @@ Controlling the operating and idle states of the CPU can vary the power consumpt
 
 #### Receiver
 
-The receiver performs preamble detection for synchro- nization and signal strength estimation. The signal is also preprocessed and demodulated to extract the data bits. The receiver includes signal preprocessing and decoding.
+The receiver performs preamble detection for synchronization and signal strength estimation. The signal is also preprocessed and demodulated to extract the data bits. The receiver includes signal preprocessing and decoding.
 
 ### Evaluation
 
-The prototype of LeakComm is adopted on a laptop (Mac- Book pro) as a transmitter as shown in Fig. 3. The laptop is placed on the desk, and we have to keep the transmitter (Mac- Book pro) on charge.
+The prototype of LeakComm is adopted on a laptop (MacBook pro) as a transmitter as shown in Fig. 3. The laptop is placed on the desk, and we have to keep the transmitter (Mac- Book pro) on charge.
 
-<center><img src="{{ "/assets/img/leakcomm/setup.png" | absolute_url }}" alt="background" width = "300" height = "80" class="post-pic"/></center>
+<center><img src="{{ "/assets/img/leakcomm/setup.png" | absolute_url }}" alt="background" width = "600" height = "160" class="post-pic"/></center>
 
 <center>Fig.3: Evaluational setup.</center>
 
 
 
-<center><img src="{{ "/assets/img/leakcomm/example.png" | absolute_url }}" alt="background" width = "300" height = "80" class="post-pic"/></center>
+<center><img src="{{ "/assets/img/leakcomm/example.png" | absolute_url }}" alt="background" width = "600" height = "160" class="post-pic"/></center>
 
 <center>Fig.4: Transmission example.</center>
 
