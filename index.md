@@ -13,7 +13,7 @@ sjtu_picture:
   src: /assets/img/title.png
   alt: website picture
 ---
-<font size=5>Biography</font>
+<font size=3>Biography</font>
 
 <p>
 	My name is <b>Dian Ding</b>, I am a Ph.D. student from the Department of Computer Science and Engineering at <b>Shanghai Jiao Tong University</b>. I received the M.S. in the Department of Automation Science and Electrical Engineering at <b>Beihang University</b> in 2019 and B.S in the Electronic and Information Engineering at <b>Northwest University</b> in 2012.
