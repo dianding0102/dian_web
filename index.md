@@ -13,17 +13,19 @@ sjtu_picture:
   src: /assets/img/title.png
   alt: website picture
 ---
+<font size=1>Biography</font>
 
 <p>
-	My name is Dian Ding, I am a Ph.D. student from the Department of Computer Science and Engineering at Shanghai Jiao Tong University. I received the M.S. in the Department of Automation Science and Electrical Engineering at Beihang University in 2019.
+	My name is <b>Dian Ding</b>, I am a Ph.D. student from the Department of Computer Science and Engineering at <b>Shanghai Jiao Tong University</b>. I received the M.S. in the Department of Automation Science and Electrical Engineering at <b>Beihang University</b> in 2019.
 </p>
 
 
 <p>
+<font size=1>Interests</font>
 	My current research interests reside in wireless communication and sensing, cyber security and human-computer interaction.
 </p>
 
-<p>
-    In my spare time, I enjoy anime, fitness and travelling. I  have a Bichon Frise called Xiao Kui and a Ragdoll cat called Xiao Shin. Due to the epidemic, they are now with my parents and my jurlfriend.
-</p>
+
+
+
 
