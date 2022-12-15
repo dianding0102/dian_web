@@ -9,10 +9,7 @@ items:
   - title: IEEE SECON 2021 (CCF B)
     image:
       src: /assets/img/work/secon.png
-    description: VibWriter - Handwriting Recognition System based on Vibration Signal
-    <p>
-    <b>Dian Ding</b>, Lanqing Yang, Yi-chao Chen and Guangtao Xue
-    </p>
+    description: VibWriter - Handwriting Recognition System based on Vibration Signal - <b>Dian Ding</b>, Lanqing Yang, Yi-chao Chen and Guangtao Xue
 
   - title: ACM IMWUT 2021 (CCF A)
     image:
