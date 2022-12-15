@@ -1,5 +1,4 @@
 ---
----
 layout: post
 title:  ACM IMWUT 2021 - User identification based on leakage current
 date:   2021-12-12 
