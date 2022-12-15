@@ -61,7 +61,7 @@ The prototype of LeakComm is adopted on a laptop (Mac- Book pro) as a transmitte
 
 
 
-<center><img src="{{ "/assets/img/leamcomm/example.png" | absolute_url }}" alt="background" width = "300" height = "80" class="post-pic"/></center>
+<center><img src="{{ "/assets/img/leakcomm/example.png" | absolute_url }}" alt="background" width = "300" height = "80" class="post-pic"/></center>
 
 <center>Fig.4: Transmission example.</center>
 
