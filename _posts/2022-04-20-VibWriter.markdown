@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  IEEE SECON 2021 - Handwriting recognition system based on vibration signal
-date:   2022-04-20 
+date:   2021-05-20 
 categories: jekyll update
 sjtu_picture:
   src: /assets/img/title.png
