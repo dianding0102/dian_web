@@ -6,6 +6,16 @@ sjtu_picture:
   src: /assets/img/title.png
   alt: website picture
 items:
+  - title: ACM MobiCom 2024 (CCF A)
+    image:
+      src: /assets/img/work/mobicom24.png
+    description: MuDiS: An Audio-independent, Wide-angle, and Leak-free
+  Multi-directional Speaker - Yijie Li, Juntao Zhou, Dian Ding\*, Yi-Chao Chen, Lili Qiu, Jiadi Yu and Guangtao Xue\*
+
+  - title: IEEE SECON 2023 (CCF B)
+    image:
+      src: /assets/img/work/secon.png
+    description: LeakThief: Stealing the Behavior Information of Laptop via Leakage Current - Dian Ding, Yi-Chao Chen, Xiaoyu Ji, Guangtao Xue
 
   - title: ACM IMWUT 2021 (CCF A)
     image:
