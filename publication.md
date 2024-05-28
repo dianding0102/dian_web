@@ -10,7 +10,7 @@ items:
     image:
       src: /assets/img/work/mobicom24.png
     description: MuDiS: An Audio-independent, Wide-angle, and Leak-free
-  Multi-directional Speaker - Yijie Li, Juntao Zhou, Dian Ding\*, Yi-Chao Chen, Lili Qiu, Jiadi Yu and Guangtao Xue\*
+  Multi-directional Speaker - Yijie Li, Juntao Zhou, Dian Ding, Yi-Chao Chen, Lili Qiu, Jiadi Yu and Guangtao Xue
 
   - title: IEEE SECON 2023 (CCF B)
     image:
