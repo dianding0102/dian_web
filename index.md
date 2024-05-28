@@ -17,15 +17,10 @@ sjtu_picture:
 <font size=4><b>Biography</b></font>
 </p>
 <p>
-	My name is <b>Dian Ding</b>, I am a Ph.D. student from the Department of Computer Science and Engineering at <b>Shanghai Jiao Tong University</b>. I received the M.S. from the Department of Automation Science and Electrical Engineering at <b>Beihang University</b> in 2019 and B.S from the Department of Electronic and Information Engineering at <b>Northwest University</b> in 2012.
+	My name is <i><b>Dian Ding</b></i>, I received the Ph.D in Department of Computer Science and Engineering at <i><b>Shanghai Jiao Tong University</b></i> in 2023, M.S. in the School of Automation Science and Electrical Engineering at <i><b>Beihang University</b></i> in 2019, and the B.S. degree in the School of Information Science and Technology at <i><b>Northwest University</b></i> in 2016. I am currently a postdoctoral in the Department of Computer Science and Engineering at Shanghai Jiao Tong University. I have published papers in high level academic conferences and journals such as <i><b>ACM MobiCom, UbiComp, IEEE INFOCOM, TMC</b></i>, etc., and have nominated for the Young Outstanding Paper Award at WCAI 2021. I have served as a PC member of ICIC, and as a reviewer for journals and conferences such as IEEE ICDCS, ICME, and Elsevier IoT. My research interests focus on networked systems in the areas of wireless communication and sensing, human-computer interaction and cyber security.
 </p>
 
-<p>
-<font size=4><b>Interests</b></font>
-</p>
-<p>
-	My current research interests reside in <b>wireless communication and sensing, cyber security and human-computer interaction</b>.
-</p>
+
 
 
 
