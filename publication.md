@@ -1,37 +1,60 @@
----
-layout: work
-title: Publication
-slug: /work
-sjtu_picture:
-  src: /assets/img/title.png
-  alt: website picture
-items:
-  - title: IEEE SECON 2023 (CCF B)
-    image:
-      src: /assets/img/work/secon.png
-    description: LeakThief: Stealing the Behavior Information of Laptop via Leakage Current - Dian Ding, Yi-Chao Chen, Xiaoyu Ji, Guangtao Xue
+ <div class="page-content">
+      <div class="wrapper">
+        <div class="home">
 
-  - title: ACM IMWUT 2021 (CCF A)
-    image:
-      src: /assets/img/work/ubicomp.png
-    description: Leakage or Identification - Behavior-irrelevant User Identification Leveraging Leakage Current on Laptops - Dian Ding, Lanqing Yang, Yi-chao Chen and Guangtao Xue
-
-  - title: IEEE SECON 2021 (CCF B)
-    image:
-      src: /assets/img/work/secon.png
-    description: VibWriter - Handwriting Recognition System based on Vibration Signal - Dian Ding, Lanqing Yang, Yi-chao Chen and Guangtao Xue
-
-  - title: IEEE TMC 2022 (CCF A)
-    image:
-      src: /assets/img/work/tmc.png
-    description: Handwriting Recognition System Leveraging Vibration Signal on Smartphones - Dian Ding, Lanqing Yang, Yi-chao Chen and Guangtao Xue
-
-  - title: IEEE INFOCOM 2020 (CCF A)
-    image:
-      src: /assets/img/work/infocom.png
-    description: MagPrint - Deep learning based user fingerprinting using electromagnetic signals - Lanqing Yang, Yi-chao Chen, Hao Pan, Dian Ding and Guangtao Xue
-
----
-
-<br />
-<br />
+        <p>
+        <font size=4><b>Publications</b></font>
+        </p>
+            <p>
+            HandPad: Make Your Hand an On-the-go Writing Pad via Human Capacitance<br>
+            Yu Lu, Hao Pan, <b>Dian Ding</b>*, Yijie Li, Juntao Zhou, Yongjian Fu, Yongzhao Zhang, Yi-Chao Chen and Guangtao Xue<br> 
+            <b>ACM UIST 2024, CCF-A</b> (* corresponding author)
+          </p>
+          <p>
+            VISAR: Projecting Virtual Sound Spots for Acoustic Augmented Reality Using Air Nonlinearity<br>
+            Juntao Zhou, Yijie Li, Yida Wang, <b>Dian Ding</b>, Yu Lu, Yi-Chao Chen and Guangtao Xue<br> 
+            <b>ACM UbiComp 2024, CCF-A</b> 
+          </p>
+          <p>
+            Enable Touch-based Communication between Laptop and Smartwatch<br>
+            <b>Dian Ding</b>, Yijie Li, Hao Pan, Yu Lu, Yi-Chao Chen and Guangtao Xue<br> 
+            <b>ACM UbiComp 2024 Poster, CCF-A</b> 
+          </p>
+          <p>
+            HCMG: Human-Capacitance based Micro Gesture for VR/AR<br>
+            Yu Lu, <b>Dian Ding</b>*, Ran Wang and Guangtao Xue<br> 
+            <b>ACM UbiComp 2024 MIMSVAI, CCF-A</b> (* corresponding author)
+          </p>
+          <p>
+            MuDiS: An Audio-independent, Wide-angle, and Leak-free Multi-directional Speaker <br> 
+            Yijie Li, Juntao Zhou, <b>Dian Ding</b>*, Yi-Chao Chen*, Lili Qiu, Jiadi Yu and Guangtao Xue<br> 
+            <b>ACM MobiCom 2024, CCF-A</b> (* corresponding author)
+          </p>
+          <p>
+            LeakThief: Stealing the Behavior Information of Laptop via Leakage Current <br> 
+            <b>Dian Ding</b>, Yi-Chao Chen, Xiaoyu Ji, Guangtao Xue<br> 
+            <b>IEEE SECON 2023, CCF-B</b>
+          </p>
+          <p>
+            Leakage or Identification - Behavior-irrelevant User Identification Leveraging Leakage Current on Laptops <br> 
+            <b>Dian Ding</b>, Lanqing Yang, Yi-chao Chen and Guangtao Xue<br> 
+            <b>ACM UbiComp 2022, CCF-A</b>
+          </p>
+          <p>
+            Handwriting Recognition System Leveraging Vibration Signal on Smartphones <br> 
+            <b>Dian Ding</b>, Lanqing Yang, Yi-chao Chen and Guangtao Xue<br> 
+            <b>IEEE TMC 2022, CCF-A</b>
+          </p>
+          <p>
+            VibWriter - Handwriting Recognition System based on Vibration Signal <br> 
+            <b>Dian Ding</b>, Lanqing Yang, Yi-chao Chen and Guangtao Xue<br>  
+            <b>IEEE SECON 2021, CCF-B</b>
+          </p>
+          <p>
+            MagPrint - Deep learning based user fingerprinting using electromagnetic signals <br> 
+            Lanqing Yang, Yi-chao Chen, Hao Pan, <b>Dian Ding</b> and Guangtao Xue<br> 
+            <b>IEEE INFOCOM 2020, CCF-A</b>
+          </p>
+        </div>
+      </div>
+    </div>
