@@ -33,8 +33,8 @@
           <p>
             HCMG: Human-Capacitance based Micro Gesture for VR/AR<br>
             Yu Lu, <b>Dian Ding</b>*, Ran Wang and Guangtao Xue<br> 
-            <b>ACM UbiComp 2024 MIMSVAI, CCF-A</b> (* corresponding author)
-            <font color="#dd0000"> Best Paper Award ! </font><br />
+            <b>ACM UbiComp 2024 MIMSVAI, CCF-A</b> (* corresponding author)<br>
+            <b><font color="#dd0000"> Best Paper Award ! </font></b><br />
           </p>
           <p>
             MuDiS: An Audio-independent, Wide-angle, and Leak-free Multi-directional Speaker <br> 
@@ -64,7 +64,8 @@
           <p>
             MagPrint - Deep learning based user fingerprinting using electromagnetic signals <br> 
             Lanqing Yang, Yi-chao Chen, Hao Pan, <b>Dian Ding</b> and Guangtao Xue<br> 
-            <b>IEEE INFOCOM 2020, CCF-A</b>
+            <b>IEEE INFOCOM 2020, CCF-A</b><br>
+            <b><font color="#dd0000"> WCAI Young Outstanding Paper Nomination ! </font></b><br />
           </p>
         </div>
       </div>
