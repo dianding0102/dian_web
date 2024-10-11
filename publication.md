@@ -7,7 +7,7 @@
         </p>
           <p>
             M3Cam: Lightweight Super-Resolution via Multi-Modal Optical Flow for Mobile Cameras<br>
-            Yu Lu, <b>Dian Ding</b>#, Hao Pan, Yongjian Fu, Liyun Zhang, Feitong Tan, Ran Wang, Yi-Chao Chen, Guangtao Xue and Ju Ren<br> 
+            Yu Lu#, <b>Dian Ding</b>#, Hao Pan, Yongjian Fu, Liyun Zhang, Feitong Tan, Ran Wang, Yi-Chao Chen, Guangtao Xue and Ju Ren<br> 
             <b>ACM SenSys 2024, CCF-B</b> (# co-first author)
           </p>
           <p>
@@ -39,7 +39,7 @@
           <p>
             MuDiS: An Audio-independent, Wide-angle, and Leak-free Multi-directional Speaker <br> 
             Yijie Li, Juntao Zhou, <b>Dian Ding</b>*, Yi-Chao Chen*, Lili Qiu, Jiadi Yu and Guangtao Xue<br> 
-            <b>ACM MobiCom 2024, CCF-A</b> (* corresponding author)
+            <b>ACM MobiCom 2024, CCF-A</b> (* co-corresponding author)
           </p>
           <p>
             LeakThief: Stealing the Behavior Information of Laptop via Leakage Current <br> 
