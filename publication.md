@@ -5,6 +5,16 @@
         <p>
         <font size=4><b>Publications</b></font>
         </p>
+          <p>
+            M3Cam: Lightweight Super-Resolution via Multi-Modal Optical Flow for Mobile Cameras<br>
+            Yu Lu, <b>Dian Ding</b>#, Hao Pan, Yongjian Fu, Liyun Zhang, Feitong Tan, Ran Wang, Yi-Chao Chen, Guangtao Xue and Ju Ren<br> 
+            <b>ACM SenSys 2024, CCF-B</b> (# co-first author)
+          </p>
+          <p>
+            Hey Hey, My My, Skewness Is Here to Stay: Challenges and Opportunities in Cloud Block Store Traffic<br>
+            Haonan Wu, Erci Xu*, Ligang Wang, Yuandong Hong, Changsheng Niu, Bo Shi, Lingjun Zhu, Jinnian He, Dong Wu, Weidong Zhang, Qiuping Wang, Changhong Wang, Xinqi Chen, Guangtao Xue, Yi-Chao Chen, <b>Dian Ding</b><br> 
+            <b>ACM EuroSys 2025, CCF-A</b>
+          </p>
             <p>
             HandPad: Make Your Hand an On-the-go Writing Pad via Human Capacitance<br>
             Yu Lu, Hao Pan, <b>Dian Ding</b>*, Yijie Li, Juntao Zhou, Yongjian Fu, Yongzhao Zhang, Yi-Chao Chen and Guangtao Xue<br> 
@@ -24,6 +34,7 @@
             HCMG: Human-Capacitance based Micro Gesture for VR/AR<br>
             Yu Lu, <b>Dian Ding</b>*, Ran Wang and Guangtao Xue<br> 
             <b>ACM UbiComp 2024 MIMSVAI, CCF-A</b> (* corresponding author)
+            <font color="#dd0000"> Best Paper Award ! </font><br />
           </p>
           <p>
             MuDiS: An Audio-independent, Wide-angle, and Leak-free Multi-directional Speaker <br> 
