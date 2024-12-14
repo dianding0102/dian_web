@@ -6,6 +6,11 @@
         <font size=4><b>Publications</b></font>
         </p>
           <p>
+            SwiftTrack+: Fine-Grained and Robust Fast Hand Motion Tracking Using Acoustic Signal<br>
+            Yongzhao Zhang, Hao Pan, <b>Dian Ding</b>, Yue Pan, Yi-Chao Chen, Lili Qiu, Guangtao Xue, Ting Chen and Xiaosong Zhang<br> 
+            <b>IEEE/ACM TON 2024, CCF-A</b> 
+          </p>
+          <p>
             M3Cam: Lightweight Super-Resolution via Multi-Modal Optical Flow for Mobile Cameras<br>
             Yu Lu#, <b>Dian Ding</b>#, Hao Pan, Yongjian Fu, Liyun Zhang, Feitong Tan, Ran Wang, Yi-Chao Chen, Guangtao Xue and Ju Ren<br> 
             <b>ACM SenSys 2024, CCF-B</b> (# co-first author)
