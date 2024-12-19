@@ -6,6 +6,11 @@
         <font size=4><b>Publications</b></font>
         </p>
           <p>
+            MasterPlan: A Reinforcement Learning Based Scheduler for Archive Storage<br>
+            Xinqi Chen, Erci Xu, Dengyao Mo, Ruiming Lu, Haonan Wu, <b>Dian Ding</b> and Guangtao Xue<br> 
+            <b>ACM TACO 2024, CCF-A</b> 
+          </p>
+          <p>
             SwiftTrack+: Fine-Grained and Robust Fast Hand Motion Tracking Using Acoustic Signal<br>
             Yongzhao Zhang, Hao Pan, <b>Dian Ding</b>, Yue Pan, Yi-Chao Chen, Lili Qiu, Guangtao Xue, Ting Chen and Xiaosong Zhang<br> 
             <b>IEEE/ACM TON 2024, CCF-A</b> 
