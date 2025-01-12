@@ -6,6 +6,11 @@
         <font size=4><b>Publications</b></font>
         </p>
           <p>
+            AMSER: Accelerate Mobile Speech Emotion Recognition with Signal Compression<br>
+            u Lu, Ran Wang, <b>Dian Ding</b>*, Han Zhang, Liyun Zhang, Lanqing Yang, Yi-Chao Chen and Guangtao Xue*<br> 
+            <b>IEEE ICASSP 2025, CCF-B</b> (* co-corresponding author)
+          </p>
+          <p>
             MasterPlan: A Reinforcement Learning Based Scheduler for Archive Storage<br>
             Xinqi Chen, Erci Xu, Dengyao Mo, Ruiming Lu, Haonan Wu, <b>Dian Ding</b> and Guangtao Xue<br> 
             <b>ACM TACO 2024, CCF-A</b> 
