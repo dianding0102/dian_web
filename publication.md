@@ -7,7 +7,7 @@
         </p>
           <p>
             AMSER: Accelerate Mobile Speech Emotion Recognition with Signal Compression<br>
-            u Lu, Ran Wang, <b>Dian Ding</b>*, Han Zhang, Liyun Zhang, Lanqing Yang, Yi-Chao Chen and Guangtao Xue*<br> 
+            Yu Lu, Ran Wang, <b>Dian Ding</b>*, Han Zhang, Liyun Zhang, Lanqing Yang, Yi-Chao Chen and Guangtao Xue*<br> 
             <b>IEEE ICASSP 2025, CCF-B</b> (* co-corresponding author)
           </p>
           <p>
