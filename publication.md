@@ -6,6 +6,16 @@
         <font size=4><b>Publications</b></font>
         </p>
           <p>
+            M2Silent: Enabling Multi-user Silent Speech Interactions via Multi-directional Speakers in Shared Spaces<br>
+            Juntao Zhou, <b>Dian Ding</b>*, Yijie Li, Yu Lu, Yida Wang, Yongzhao Zhang, Yi-Chao Chen*, and Guangtao Xue.<br> 
+            <b>ACM CHI 2025, CCF-A</b> (* co-corresponding author)
+          </p>
+          <p>
+            Bridge: Enabling BLE Direction Finding Feature Compatible with All Bluetooth Devices<br>
+            Runting Zhang, Yijie Li, <b>Dian Ding</b>*, Yi-Chao Chen*, Yida Wang, Dongyao Chen, Jingxian Wang, Jiadi Yu, Ling Ma and Guangtao Xue<br> 
+            <b>ACM MobiCom 2025, CCF-A</b> (* co-corresponding author)
+          </p>
+          <p>
             AMSER: Accelerate Mobile Speech Emotion Recognition with Signal Compression<br>
             Yu Lu, Ran Wang, <b>Dian Ding</b>*, Han Zhang, Liyun Zhang, Lanqing Yang, Yi-Chao Chen and Guangtao Xue*<br> 
             <b>IEEE ICASSP 2025, CCF-B</b> (* co-corresponding author)
