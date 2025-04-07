@@ -6,6 +6,11 @@
         <font size=4><b>Publications</b></font>
         </p>
           <p>
+            High-resolution mmWave Imaging using Metasurface and Diffusion<br>
+            Yida Wang, Yu Lu, Yuxuan Zhou, Yifei Shen, Lili Qiu, Zeyuan Lai, Yi-chao Chen, Hao Pan, Juntao Zhou, <b>Dian Ding</b>, Mei Wang, Guangtao Xue, and Qian Zhang.<br> 
+            <b>ACM MobiSys 2025, CCF-B</b>
+          </p>
+          <p>
             M2Silent: Enabling Multi-user Silent Speech Interactions via Multi-directional Speakers in Shared Spaces<br>
             Juntao Zhou, <b>Dian Ding</b>*, Yijie Li, Yu Lu, Yida Wang, Yongzhao Zhang, Yi-Chao Chen*, and Guangtao Xue.<br> 
             <b>ACM CHI 2025, CCF-A</b> (* co-corresponding author)
