@@ -14,6 +14,7 @@
             High-resolution mmWave Imaging using Metasurface and Diffusion<br>
             Yida Wang, Yu Lu, Yuxuan Zhou, Yifei Shen, Lili Qiu, Zeyuan Lai, Yi-chao Chen, Hao Pan, Juntao Zhou, <b>Dian Ding</b>, Mei Wang, Guangtao Xue, and Qian Zhang<br> 
             <b>ACM MobiSys 2025, CCF-B</b>
+            <b><font color="#dd0000"> Best Artifact Runner Up ! </font></b><br />
           </p>
           <p>
             M2Silent: Enabling Multi-user Silent Speech Interactions via Multi-directional Speakers in Shared Spaces<br>
