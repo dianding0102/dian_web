@@ -13,7 +13,7 @@
           <p>
             High-resolution mmWave Imaging using Metasurface and Diffusion<br>
             Yida Wang, Yu Lu, Yuxuan Zhou, Yifei Shen, Lili Qiu, Zeyuan Lai, Yi-chao Chen, Hao Pan, Juntao Zhou, <b>Dian Ding</b>, Mei Wang, Guangtao Xue, and Qian Zhang<br> 
-            <b>ACM MobiSys 2025, CCF-B</b>
+            <b>ACM MobiSys 2025, CCF-B</b><br>
             <b><font color="#dd0000"> Best Artifact Runner Up ! </font></b><br />
           </p>
           <p>
