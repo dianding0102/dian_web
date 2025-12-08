@@ -1,4 +1,4 @@
- <div class="page-content">
+ <!-- <div class="page-content">
       <div class="wrapper">
         <div class="home">
 
@@ -105,7 +105,7 @@
           </p>
         </div>
       </div>
-    </div>
+    </div> -->
 
 <div class="news-section">
       <h2 class="section-title">News</h2>
