@@ -39,11 +39,10 @@ sjtu_picture:
 .bio-section {
   font-family: -apple-system, BlinkMacSystemFont, sans-serif;
   line-height: 1.6;
-  max-width: 1400px !important; /* 从1000px改为1400px */
-  width: 95% !important; /* 添加响应式宽度 */
+  max-width: 1400px !important;
+  width: 95% !important;
   margin: 0 auto 40px !important;
-  padding: 30px !important; /* 增加内边距 */
-  /* 去掉背景色和阴影，保持与Publications一致 */
+  padding: 30px !important;
   background: transparent !important;
   border-radius: 0 !important;
   box-shadow: none !important;
@@ -58,13 +57,18 @@ sjtu_picture:
 }
 
 .bio-container {
-  background: white;
-  border-radius: 12px;
-  box-shadow: 0 6px 25px rgba(0, 0, 0, 0.08);
-  padding: 35px;
-  border: 1px solid #e9ecef;
-  max-width: 1300px;
-  margin: 0 auto;
+  display: flex;
+  gap: 40px;
+  align-items: flex-start;
+  /* 添加以下三行以增加宽度 */
+  max-width: 1300px !important;
+  margin: 0 auto !important;
+  padding: 35px !important;
+  /* 添加白色背景和边框 */
+  background: white !important;
+  border-radius: 12px !important;
+  box-shadow: 0 6px 25px rgba(0, 0, 0, 0.08) !important;
+  border: 1px solid #e9ecef !important;
 }
 
 .bio-text {
@@ -142,6 +146,11 @@ sjtu_picture:
     margin: 20px auto 40px !important;
     padding: 25px !important;
   }
+  
+  .bio-container {
+    max-width: 95% !important;
+    padding: 30px !important;
+  }
 }
 
 @media (max-width: 1200px) {
@@ -151,7 +160,8 @@ sjtu_picture:
   }
   
   .bio-container {
-    padding: 25px;
+    max-width: 98% !important;
+    padding: 25px !important;
   }
 }
 
@@ -163,7 +173,10 @@ sjtu_picture:
   }
   
   .bio-container {
-    padding: 20px;
+    max-width: 100% !important;
+    padding: 20px !important;
+    flex-direction: column !important;
+    gap: 30px !important;
   }
   
   .bio-text p {
@@ -177,7 +190,7 @@ sjtu_picture:
   }
   
   .bio-container {
-    padding: 15px;
+    padding: 15px !important;
   }
 }
 </style>
