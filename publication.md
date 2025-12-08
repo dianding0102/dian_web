@@ -20,10 +20,6 @@ title: "Publications"
               
               <!-- AuCom -->
               <div class="publication-item">
-                <div class="pub-header">
-                  <span class="pub-date">To appear</span>
-                  <span class="pub-status accepted">Accepted</span>
-                </div>
                 <div class="pub-content">
                   <h4 class="pub-title">AuCom: Extreme Compression for Real-Time Edge-to-Server Universal Audio Streaming</h4>
                   <div class="pub-authors">
@@ -39,13 +35,10 @@ title: "Publications"
                     <span class="pub-author">Guangtao Xue</span>
                   </div>
                   <div class="pub-venue">
-                    <span class="venue-icon">📝</span>
-                    <span class="venue-name">IEEE Transactions on Mobile Computing (TMC)</span>
-                    <span class="venue-year">2025</span>
+                    <span class="venue-name">IEEE TMC</span>
                     <span class="ccf-rank">CCF-A</span>
                   </div>
                   <div class="pub-correspondence">
-                    <span class="corr-icon">📬</span>
                     <span class="corr-text">* corresponding author</span>
                   </div>
                 </div>
@@ -53,10 +46,6 @@ title: "Publications"
               
               <!-- LeakThief TMC -->
               <div class="publication-item">
-                <div class="pub-header">
-                  <span class="pub-date">To appear</span>
-                  <span class="pub-status accepted">Accepted</span>
-                </div>
                 <div class="pub-content">
                   <h4 class="pub-title">Sniffing the Application Usage Information With the Leakage Current of Laptops</h4>
                   <div class="pub-authors">
@@ -68,13 +57,10 @@ title: "Publications"
                     <span class="pub-author">Guangtao Xue</span>
                   </div>
                   <div class="pub-venue">
-                    <span class="venue-icon">📝</span>
-                    <span class="venue-name">IEEE Transactions on Mobile Computing (TMC)</span>
-                    <span class="venue-year">2025</span>
+                    <span class="venue-name">IEEE TMC</span>
                     <span class="ccf-rank">CCF-A</span>
                   </div>
                   <div class="pub-correspondence">
-                    <span class="corr-icon">🥇</span>
                     <span class="corr-text"># first author</span>
                   </div>
                 </div>
@@ -82,10 +68,6 @@ title: "Publications"
               
               <!-- Fundamental Research -->
               <div class="publication-item">
-                <div class="pub-header">
-                  <span class="pub-date">To appear</span>
-                  <span class="pub-status accepted">Accepted</span>
-                </div>
                 <div class="pub-content">
                   <h4 class="pub-title">A Survey on Acoustic Sensing in the Metasurface Era: Challenges, Advances, and Applications</h4>
                   <div class="pub-authors">
@@ -103,19 +85,13 @@ title: "Publications"
                     <span class="pub-author">Xiaosong Zhang</span>
                   </div>
                   <div class="pub-venue">
-                    <span class="venue-icon">📚</span>
                     <span class="venue-name">Fundamental Research</span>
-                    <span class="venue-year">2025</span>
                   </div>
                 </div>
               </div>
               
               <!-- AnchorAttention -->
               <div class="publication-item">
-                <div class="pub-header">
-                  <span class="pub-date">To appear</span>
-                  <span class="pub-status accepted">Accepted</span>
-                </div>
                 <div class="pub-content">
                   <h4 class="pub-title">AnchorAttention: Difference-aware Sparse Attention with Stripe Granularity</h4>
                   <div class="pub-authors">
@@ -128,12 +104,10 @@ title: "Publications"
                   </div>
                   <div class="pub-venue">
                     <span class="venue-icon">🤖</span>
-                    <span class="venue-name">Conference on Empirical Methods in Natural Language Processing (EMNLP)</span>
-                    <span class="venue-year">2025</span>
+                    <span class="venue-name">EMNLP</span>
                     <span class="ccf-rank">CCF-B</span>
                   </div>
                   <div class="pub-correspondence">
-                    <span class="corr-icon">📬</span>
                     <span class="corr-text">* co-corresponding author</span>
                   </div>
                 </div>
@@ -141,11 +115,6 @@ title: "Publications"
               
               <!-- MMID -->
               <div class="publication-item award">
-                <div class="pub-header">
-                  <span class="pub-date">To appear</span>
-                  <span class="pub-status accepted">Accepted</span>
-                  <span class="pub-award">🏆 ACM MobiSys 2025</span>
-                </div>
                 <div class="pub-content">
                   <h4 class="pub-title">High-resolution mmWave Imaging using Metasurface and Diffusion</h4>
                   <div class="pub-authors">
@@ -164,8 +133,7 @@ title: "Publications"
                     <span class="pub-author">Qian Zhang</span>
                   </div>
                   <div class="pub-venue">
-                    <span class="venue-icon">📡</span>
-                    <span class="venue-name">ACM International Conference on Mobile Systems, Applications, and Services (MobiSys)</span>
+                    <span class="venue-name">ACM MobiSys</span>
                     <span class="venue-year">2025</span>
                     <span class="ccf-rank">CCF-B</span>
                   </div>
@@ -178,10 +146,6 @@ title: "Publications"
               
               <!-- TouchHBC -->
               <div class="publication-item">
-                <div class="pub-header">
-                  <span class="pub-date">To appear</span>
-                  <span class="pub-status accepted">Accepted</span>
-                </div>
                 <div class="pub-content">
                   <h4 class="pub-title">TouchHBC: Touch-based Human Body Communication via Leakage Current</h4>
                   <div class="pub-authors">
@@ -194,13 +158,10 @@ title: "Publications"
                     <span class="pub-author">Guangtao Xue</span>
                   </div>
                   <div class="pub-venue">
-                    <span class="venue-icon">📝</span>
-                    <span class="venue-name">IEEE Transactions on Mobile Computing (TMC)</span>
-                    <span class="venue-year">2025</span>
+                    <span class="venue-name">IEEE TMC</span>
                     <span class="ccf-rank">CCF-A</span>
                   </div>
                   <div class="pub-correspondence">
-                    <span class="corr-icon">🥇</span>
                     <span class="corr-text"># first author</span>
                   </div>
                 </div>
@@ -208,10 +169,6 @@ title: "Publications"
               
               <!-- M2Silent -->
               <div class="publication-item">
-                <div class="pub-header">
-                  <span class="pub-date">To appear</span>
-                  <span class="pub-status accepted">Accepted</span>
-                </div>
                 <div class="pub-content">
                   <h4 class="pub-title">M2Silent: Enabling Multi-user Silent Speech Interactions via Multi-directional Speakers in Shared Spaces</h4>
                   <div class="pub-authors">
@@ -225,13 +182,10 @@ title: "Publications"
                     <span class="pub-author">Guangtao Xue</span>
                   </div>
                   <div class="pub-venue">
-                    <span class="venue-icon">👥</span>
-                    <span class="venue-name">ACM CHI Conference on Human Factors in Computing Systems</span>
-                    <span class="venue-year">2025</span>
+                    <span class="venue-name">ACM CHI</span>
                     <span class="ccf-rank">CCF-A</span>
                   </div>
                   <div class="pub-correspondence">
-                    <span class="corr-icon">📬</span>
                     <span class="corr-text">* co-corresponding author</span>
                   </div>
                 </div>
@@ -239,10 +193,6 @@ title: "Publications"
               
               <!-- Bridge -->
               <div class="publication-item">
-                <div class="pub-header">
-                  <span class="pub-date">To appear</span>
-                  <span class="pub-status accepted">Accepted</span>
-                </div>
                 <div class="pub-content">
                   <h4 class="pub-title">Bridge: Enabling BLE Direction Finding Feature Compatible with All Bluetooth Devices</h4>
                   <div class="pub-authors">
@@ -258,59 +208,15 @@ title: "Publications"
                     <span class="pub-author">Guangtao Xue</span>
                   </div>
                   <div class="pub-venue">
-                    <span class="venue-icon">📡</span>
-                    <span class="venue-name">ACM International Conference on Mobile Computing and Networking (MobiCom)</span>
-                    <span class="venue-year">2025</span>
+                    <span class="venue-name">ACM MobiCom</span>
                     <span class="ccf-rank">CCF-A</span>
                   </div>
                   <div class="pub-correspondence">
-                    <span class="corr-icon">📬</span>
                     <span class="corr-text">* co-corresponding author</span>
                   </div>
                 </div>
               </div>
               
-              <!-- EuroSys -->
-              <div class="publication-item">
-                <div class="pub-header">
-                  <span class="pub-date">To appear</span>
-                  <span class="pub-status accepted">Accepted</span>
-                </div>
-                <div class="pub-content">
-                  <h4 class="pub-title">Hey Hey, My My, Skewness Is Here to Stay: Challenges and Opportunities in Cloud Block Store Traffic</h4>
-                  <div class="pub-authors">
-                    <span class="pub-author">Haonan Wu</span>, 
-                    <span class="pub-author">Erci Xu*</span>, 
-                    <span class="pub-author">Ligang Wang</span>, 
-                    <span class="pub-author">Yuandong Hong</span>, 
-                    <span class="pub-author">Changsheng Niu</span>, 
-                    <span class="pub-author">Bo Shi</span>, 
-                    <span class="pub-author">Lingjun Zhu</span>, 
-                    <span class="pub-author">Jinnian He</span>, 
-                    <span class="pub-author">Dong Wu</span>, 
-                    <span class="pub-author">Weidong Zhang</span>, 
-                    <span class="pub-author">Qiuping Wang</span>, 
-                    <span class="pub-author">Changhong Wang</span>, 
-                    <span class="pub-author">Xinqi Chen</span>, 
-                    <span class="pub-author">Guangtao Xue</span>, 
-                    <span class="pub-author">Yi-Chao Chen</span>, 
-                    <span class="pub-author highlight">Dian Ding</span>
-                  </div>
-                  <div class="pub-venue">
-                    <span class="venue-icon">☁️</span>
-                    <span class="venue-name">ACM European Conference on Computer Systems (EuroSys)</span>
-                    <span class="venue-year">2025</span>
-                    <span class="ccf-rank">CCF-A</span>
-                  </div>
-                  <div class="pub-correspondence">
-                    <span class="corr-icon">📬</span>
-                    <span class="corr-text">* corresponding author</span>
-                  </div>
-                </div>
-              </div>
-              
-            </div>
-          </div>
           
           <!-- 2024年 -->
           <div class="publications-year">
@@ -319,10 +225,6 @@ title: "Publications"
               
               <!-- SwiftTrack+ -->
               <div class="publication-item">
-                <div class="pub-header">
-                  <span class="pub-date">2024</span>
-                  <span class="pub-status published">Published</span>
-                </div>
                 <div class="pub-content">
                   <h4 class="pub-title">SwiftTrack+: Fine-Grained and Robust Fast Hand Motion Tracking Using Acoustic Signal</h4>
                   <div class="pub-authors">
@@ -337,9 +239,7 @@ title: "Publications"
                     <span class="pub-author">Xiaosong Zhang</span>
                   </div>
                   <div class="pub-venue">
-                    <span class="venue-icon">📝</span>
-                    <span class="venue-name">IEEE/ACM Transactions on Networking (TON)</span>
-                    <span class="venue-year">2024</span>
+                    <span class="venue-name">IEEE/ACM TON</span>
                     <span class="ccf-rank">CCF-A</span>
                   </div>
                 </div>
@@ -347,10 +247,6 @@ title: "Publications"
               
               <!-- M3Cam -->
               <div class="publication-item">
-                <div class="pub-header">
-                  <span class="pub-date">Sep 2024</span>
-                  <span class="pub-status published">Published</span>
-                </div>
                 <div class="pub-content">
                   <h4 class="pub-title">M3Cam: Extreme Super-resolution via Multi-Modal Optical Flow for Mobile Cameras</h4>
                   <div class="pub-authors">
@@ -366,13 +262,10 @@ title: "Publications"
                     <span class="pub-author">Ju Ren</span>
                   </div>
                   <div class="pub-venue">
-                    <span class="venue-icon">📷</span>
-                    <span class="venue-name">ACM Conference on Embedded Networked Sensor Systems (SenSys)</span>
-                    <span class="venue-year">2024</span>
+                    <span class="venue-name">ACM SenSys</span>
                     <span class="ccf-rank">CCF-B</span>
                   </div>
                   <div class="pub-correspondence">
-                    <span class="corr-icon">🥇</span>
                     <span class="corr-text"># co-first author</span>
                   </div>
                 </div>
@@ -380,10 +273,6 @@ title: "Publications"
               
               <!-- HandPad -->
               <div class="publication-item">
-                <div class="pub-header">
-                  <span class="pub-date">Jun 2024</span>
-                  <span class="pub-status published">Published</span>
-                </div>
                 <div class="pub-content">
                   <h4 class="pub-title">HandPad: Make Your Hand an On-the-go Writing Pad via Human Capacitance</h4>
                   <div class="pub-authors">
@@ -398,13 +287,10 @@ title: "Publications"
                     <span class="pub-author">Guangtao Xue</span>
                   </div>
                   <div class="pub-venue">
-                    <span class="venue-icon">📱</span>
-                    <span class="venue-name">ACM Conference on User Interface Software and Technology (UIST)</span>
-                    <span class="venue-year">2024</span>
+                    <span class="venue-name">ACM UIST</span>
                     <span class="ccf-rank">CCF-A</span>
                   </div>
                   <div class="pub-correspondence">
-                    <span class="corr-icon">📬</span>
                     <span class="corr-text">* corresponding author</span>
                   </div>
                 </div>
@@ -412,10 +298,6 @@ title: "Publications"
               
               <!-- VISAR -->
               <div class="publication-item">
-                <div class="pub-header">
-                  <span class="pub-date">Jul 2024</span>
-                  <span class="pub-status published">Published</span>
-                </div>
                 <div class="pub-content">
                   <h4 class="pub-title">VISAR: Projecting Virtual Sound Spots for Acoustic Augmented Reality Using Air Nonlinearity</h4>
                   <div class="pub-authors">
@@ -428,50 +310,14 @@ title: "Publications"
                     <span class="pub-author">Guangtao Xue</span>
                   </div>
                   <div class="pub-venue">
-                    <span class="venue-icon">🎵</span>
-                    <span class="venue-name">Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)</span>
-                    <span class="venue-year">2024</span>
+                    <span class="venue-name">ACM IMWUT</span>
                     <span class="ccf-rank">CCF-A</span>
                   </div>
                 </div>
-              </div>
-              
-              <!-- UbiComp Poster -->
-              <div class="publication-item">
-                <div class="pub-header">
-                  <span class="pub-date">Jul 2024</span>
-                  <span class="pub-status published">Published</span>
-                </div>
-                <div class="pub-content">
-                  <h4 class="pub-title">Enable Touch-based Communication between Laptop and Smartwatch</h4>
-                  <div class="pub-authors">
-                    <span class="pub-author highlight">Dian Ding#</span>, 
-                    <span class="pub-author">Yijie Li</span>, 
-                    <span class="pub-author">Hao Pan</span>, 
-                    <span class="pub-author">Yu Lu</span>, 
-                    <span class="pub-author">Yi-Chao Chen</span>, 
-                    <span class="pub-author">Guangtao Xue</span>
-                  </div>
-                  <div class="pub-venue">
-                    <span class="venue-icon">📋</span>
-                    <span class="venue-name">ACM International Conference on Ubiquitous Computing (UbiComp) Poster</span>
-                    <span class="venue-year">2024</span>
-                    <span class="ccf-rank">CCF-A</span>
-                  </div>
-                  <div class="pub-correspondence">
-                    <span class="corr-icon">🥇</span>
-                    <span class="corr-text"># first author</span>
-                  </div>
-                </div>
-              </div>
+              </div>         
               
               <!-- HCMG -->
               <div class="publication-item award">
-                <div class="pub-header">
-                  <span class="pub-date">Jul 2024</span>
-                  <span class="pub-status published">Published</span>
-                  <span class="pub-award">🏆 ACM UbiComp 2024</span>
-                </div>
                 <div class="pub-content">
                   <h4 class="pub-title">HCMG: Human-Capacitance based Micro Gesture for VR/AR</h4>
                   <div class="pub-authors">
@@ -481,9 +327,7 @@ title: "Publications"
                     <span class="pub-author">Guangtao Xue</span>
                   </div>
                   <div class="pub-venue">
-                    <span class="venue-icon">👋</span>
-                    <span class="venue-name">ACM UbiComp Workshop on Mobile and Immersive Sensing for Virtual, Augmented and Mixed Reality Interactions (MIMSVAI)</span>
-                    <span class="venue-year">2024</span>
+                    <span class="venue-name">ACM UbiComp MIMSVAI</span>
                     <span class="ccf-rank">CCF-A</span>
                   </div>
                   <div class="pub-award-info">
@@ -491,7 +335,6 @@ title: "Publications"
                     <span class="award-text">Best Paper Award</span>
                   </div>
                   <div class="pub-correspondence">
-                    <span class="corr-icon">📬</span>
                     <span class="corr-text">* corresponding author</span>
                   </div>
                 </div>
@@ -499,10 +342,6 @@ title: "Publications"
               
               <!-- MuDiS -->
               <div class="publication-item">
-                <div class="pub-header">
-                  <span class="pub-date">Nov 2023</span>
-                  <span class="pub-status published">Published</span>
-                </div>
                 <div class="pub-content">
                   <h4 class="pub-title">MuDiS: An Audio-independent, Wide-angle, and Leak-free Multi-directional Speaker</h4>
                   <div class="pub-authors">
@@ -515,13 +354,10 @@ title: "Publications"
                     <span class="pub-author">Guangtao Xue</span>
                   </div>
                   <div class="pub-venue">
-                    <span class="venue-icon">📡</span>
-                    <span class="venue-name">ACM International Conference on Mobile Computing and Networking (MobiCom)</span>
-                    <span class="venue-year">2024</span>
+                    <span class="venue-name">ACM MobiCom</span>
                     <span class="ccf-rank">CCF-A</span>
                   </div>
                   <div class="pub-correspondence">
-                    <span class="corr-icon">📬</span>
                     <span class="corr-text">* co-corresponding author</span>
                   </div>
                 </div>
@@ -537,10 +373,6 @@ title: "Publications"
               
               <!-- LeakThief SECON -->
               <div class="publication-item">
-                <div class="pub-header">
-                  <span class="pub-date">2023</span>
-                  <span class="pub-status published">Published</span>
-                </div>
                 <div class="pub-content">
                   <h4 class="pub-title">LeakThief: Stealing the Behavior Information of Laptop via Leakage Current</h4>
                   <div class="pub-authors">
@@ -550,8 +382,7 @@ title: "Publications"
                     <span class="pub-author">Guangtao Xue</span>
                   </div>
                   <div class="pub-venue">
-                    <span class="venue-icon">📡</span>
-                    <span class="venue-name">IEEE International Conference on Sensing, Communication and Networking (SECON)</span>
+                    <span class="venue-name">IEEE SECON</span>
                     <span class="venue-year">2023</span>
                     <span class="ccf-rank">CCF-B</span>
                   </div>
@@ -564,10 +395,6 @@ title: "Publications"
               
               <!-- Handwriting TMC -->
               <div class="publication-item">
-                <div class="pub-header">
-                  <span class="pub-date">2022</span>
-                  <span class="pub-status published">Published</span>
-                </div>
                 <div class="pub-content">
                   <h4 class="pub-title">Handwriting Recognition System Leveraging Vibration Signal on Smartphones</h4>
                   <div class="pub-authors">
@@ -577,13 +404,11 @@ title: "Publications"
                     <span class="pub-author">Guangtao Xue</span>
                   </div>
                   <div class="pub-venue">
-                    <span class="venue-icon">📝</span>
-                    <span class="venue-name">IEEE Transactions on Mobile Computing (TMC)</span>
+                    <span class="venue-name">IEEE TMC</span>
                     <span class="venue-year">2022</span>
                     <span class="ccf-rank">CCF-A</span>
                   </div>
                   <div class="pub-correspondence">
-                    <span class="corr-icon">🥇</span>
                     <span class="corr-text"># first author</span>
                   </div>
                 </div>
@@ -591,10 +416,6 @@ title: "Publications"
               
               <!-- LeakPrint -->
               <div class="publication-item">
-                <div class="pub-header">
-                  <span class="pub-date">2021</span>
-                  <span class="pub-status published">Published</span>
-                </div>
                 <div class="pub-content">
                   <h4 class="pub-title">Leakage or Identification: Behavior-irrelevant User Identification Leveraging Leakage Current on Laptops</h4>
                   <div class="pub-authors">
@@ -604,13 +425,11 @@ title: "Publications"
                     <span class="pub-author">Guangtao Xue</span>
                   </div>
                   <div class="pub-venue">
-                    <span class="venue-icon">📱</span>
-                    <span class="venue-name">Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)</span>
+                    <span class="venue-name">ACM IMWUT</span>
                     <span class="venue-year">2021</span>
                     <span class="ccf-rank">CCF-A</span>
                   </div>
                   <div class="pub-correspondence">
-                    <span class="corr-icon">🥇</span>
                     <span class="corr-text"># first author</span>
                   </div>
                 </div>
@@ -618,10 +437,6 @@ title: "Publications"
               
               <!-- VibWriter -->
               <div class="publication-item">
-                <div class="pub-header">
-                  <span class="pub-date">2021</span>
-                  <span class="pub-status published">Published</span>
-                </div>
                 <div class="pub-content">
                   <h4 class="pub-title">VibWriter: Handwriting Recognition System Based on Vibration Signal</h4>
                   <div class="pub-authors">
@@ -631,13 +446,11 @@ title: "Publications"
                     <span class="pub-author">Guangtao Xue</span>
                   </div>
                   <div class="pub-venue">
-                    <span class="venue-icon">📡</span>
-                    <span class="venue-name">IEEE International Conference on Sensing, Communication and Networking (SECON)</span>
+                    <span class="venue-name">IEEE SECON</span>
                     <span class="venue-year">2021</span>
                     <span class="ccf-rank">CCF-B</span>
                   </div>
                   <div class="pub-correspondence">
-                    <span class="corr-icon">🥇</span>
                     <span class="corr-text"># first author</span>
                   </div>
                 </div>
@@ -645,11 +458,6 @@ title: "Publications"
               
               <!-- Magprint -->
               <div class="publication-item award">
-                <div class="pub-header">
-                  <span class="pub-date">2020</span>
-                  <span class="pub-status published">Published</span>
-                  <span class="pub-award">🏆 WAIC 2021</span>
-                </div>
                 <div class="pub-content">
                   <h4 class="pub-title">Magprint: Deep Learning Based User Fingerprinting Using Electromagnetic Signals</h4>
                   <div class="pub-authors">
@@ -660,13 +468,11 @@ title: "Publications"
                     <span class="pub-author">Guangtao Xue</span>
                   </div>
                   <div class="pub-venue">
-                    <span class="venue-icon">📡</span>
-                    <span class="venue-name">IEEE International Conference on Computer Communications (INFOCOM)</span>
+                    <span class="venue-name">IEEE INFOCOM</span>
                     <span class="venue-year">2020</span>
                     <span class="ccf-rank">CCF-A</span>
                   </div>
                   <div class="pub-award-info">
-                    <span class="award-icon">🏅</span>
                     <span class="award-text">World Artificial Intelligence Conference Youth Outstanding Paper Nomination Award (2021)</span>
                   </div>
                 </div>
