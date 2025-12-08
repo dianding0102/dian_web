@@ -12,16 +12,19 @@ profile_picture:
       
       <!-- News Section -->
       <div class="news-section">
-        <h2 class="section-title">News</h2>
+        <h2 class="section-title">Publication</h2>
         
         <div class="news-container">
           <div class="news-year">
             <h3>2025</h3>
             <div class="news-items">
               <div class="news-item">
-                <span class="news-date">Nov 2025</span>
+                <span class="news-date">2025</span>
                 <span class="news-content">
-                  <span class="news-paper">AuCom</span> accepted by 
+                  TouchHBC: Touch-based Human Body Communication via Leakage Current
+                  
+                  <span class="news-paper">Dian Ding</span>Dian Ding, Hao Pan, Yongzhao Zhang, Yijie Li, Yu Lu, Yi-Chao Chen, Guangtao Xue
+                  
                   <span class="news-venue">IEEE TMC 2025</span>
                 </span>
               </div>
