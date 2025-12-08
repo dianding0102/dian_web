@@ -10,9 +10,10 @@ title: "Publications"
   width: 95% !important;
   margin: 30px auto !important;
   padding: 30px !important;
-  background: white !important;
-  border-radius: 15px !important;
-  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.1) !important;
+  /* 去掉背景色、圆角和阴影 */
+  background: transparent !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
 }
 
 .wrapper {
@@ -32,7 +33,7 @@ title: "Publications"
   line-height: 1.6;
   max-width: 100% !important;
   margin: 0 auto;
-  padding: 0 !important;
+  padding: 0 !important; /* 去掉内边距 */
 }
 
 .section-title {
@@ -57,13 +58,12 @@ title: "Publications"
 }
 
 .publications-container {
-  background: #ffffff;
-  border-radius: 12px;
-  padding: 35px !important;
-  box-shadow: 0 6px 25px rgba(0, 0, 0, 0.08);
-  border: 1px solid #e9ecef;
-  max-width: 100% !important;
-  margin: 0 auto;
+  /* 去掉背景、圆角和阴影 */
+  background: transparent !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  border: none !important;
+  padding: 0 !important; /* 根据需要调整内边距 */
 }
 
 .publications-year {
@@ -238,22 +238,14 @@ title: "Publications"
   .page-content {
     max-width: 95% !important;
     margin: 20px auto !important;
-    padding: 25px !important;
-  }
-  
-  .publications-container {
-    padding: 30px !important;
+    padding: 20px !important;
   }
 }
 
 @media (max-width: 1200px) {
   .page-content {
     max-width: 98% !important;
-    padding: 25px !important;
-  }
-  
-  .pub-title {
-    font-size: 1.2em;
+    padding: 15px !important;
   }
 }
 
@@ -277,9 +269,9 @@ title: "Publications"
   .page-content {
     max-width: 100% !important;
     margin: 10px auto !important;
-    padding: 15px !important;
-    border-radius: 0 !important;
+    padding: 10px !important;
   }
+}
   
   .publications-container {
     padding: 20px !important;
