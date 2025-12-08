@@ -112,7 +112,7 @@
       
       <div class="news-container">
         <div class="news-year">
-          <h3>2025</h3>
+          <h3>Publication</h3>
           <div class="news-items">
             <div class="news-item">
               <span class="news-date">2025</span>
