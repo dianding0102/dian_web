@@ -40,49 +40,65 @@
         </div>
       </div>
     </div> -->
-
-    <div class="research-showcase">
-      <div class="category">
-        <h3>📡 无线感知 (Wireless Sensing)</h3>
-        <p><strong>BLE定位:</strong> Bridge <small>MobiCom'25</small>, SADIF <small>MobiHoc'25</small></p>
-        <p><strong>声学感知:</strong> M2Silent(唇语) <small>UIST'24</small>, SwiftTrack(追踪) <small>TON'24</small></p>
-        <p><strong>人体电容感知:</strong> HandPad(手势) <small>UIST'24/UbiComp'24</small>, LeakPrint(用户识别) <small>IMWUT'21</small></p>
-        <p><strong>毫米波感知:</strong> MMID成像 <small>MobiSys'25</small></p>
-        <p><strong>视觉增强:</strong> M3Cam(超分辨率) <small>SenSys'24</small>, MODepth(深度估计) <small>Siggraph Asia'25</small></p>
-      </div>
+    <div class="interests-section">
+      <h2 class="section-title">Interests</h2>
       
-      <div class="category">
-        <h3>📶 无线通信 (Wireless Communication)</h3>
-        <p><strong>声学通信:</strong> MuDis定向扬声器 <small>MobiCom'24</small>, VISAR点声源 <small>IMWUT'24</small>, AuComp信号压缩 <small>TMC'25</small></p>
-        <p><strong>人体电容通信:</strong> TouchHBC <small>TMC'25</small></p>
-      </div>
-      
-      <div class="category">
-        <h3>🏥 智能健康 (Smart Health)</h3>
-        <p><strong>MRI:</strong> 超分辨率 <small>BIBM'25</small></p>
-        <p><strong>ECG:</strong> 起搏器优化 <small>BIBM'25</small></p>
-        <p><strong>肠音分析:</strong> <span class="ongoing">进行中</span></p>
-      </div>
-      
-      <div class="category">
-        <h3>🧠 端侧大模型推理 (On-device LLM)</h3>
-        <p><strong>KV缓存优化:</strong> AnchorAttention(稀疏化) <small>EMNLP'25</small>, <span class="ongoing">量化(进行中)</span></p>
-        <p><strong>多模态大模型:</strong> <span class="ongoing">推理优化(进行中)</span></p>
+      <div class="research-showcase">
+        <div class="category">
+          <h3>无线感知 (Wireless Sensing)</h3>
+          <p><strong>BLE定位:</strong> Bridge <small>MobiCom'25</small>, SADIF <small>MobiHoc'25</small></p>
+          <p><strong>声学感知:</strong> M2Silent(唇语) <small>UIST'24</small>, SwiftTrack(追踪) <small>TON'24</small></p>
+          <p><strong>人体电容感知:</strong> HandPad(手势) <small>UIST'24/UbiComp'24</small>, LeakPrint(用户识别) <small>IMWUT'21</small></p>
+          <p><strong>毫米波感知:</strong> MMID成像 <small>MobiSys'25</small></p>
+          <p><strong>视觉增强:</strong> M3Cam(超分辨率) <small>SenSys'24</small>, MODepth(深度估计) <small>Siggraph Asia'25</small></p>
+        </div>
+        
+        <div class="category">
+          <h3>无线通信 (Wireless Communication)</h3>
+          <p><strong>声学通信:</strong> MuDis定向扬声器 <small>MobiCom'24</small>, VISAR点声源 <small>IMWUT'24</small>, AuComp信号压缩 <small>TMC'25</small></p>
+          <p><strong>人体电容通信:</strong> TouchHBC <small>TMC'25</small></p>
+        </div>
+        
+        <div class="category">
+          <h3>智能健康 (Smart Health)</h3>
+          <p><strong>MRI:</strong> 超分辨率 <small>BIBM'25</small></p>
+          <p><strong>ECG:</strong> 起搏器优化 <small>BIBM'25</small></p>
+          <p><strong>肠音分析:</strong> <span class="ongoing">进行中</span></p>
+        </div>
+        
+        <div class="category">
+          <h3>端侧大模型推理 (On-device LLM)</h3>
+          <p><strong>KV缓存优化:</strong> AnchorAttention(稀疏化) <small>EMNLP'25</small>, <span class="ongoing">量化(进行中)</span></p>
+          <p><strong>多模态大模型:</strong> <span class="ongoing">推理优化(进行中)</span></p>
+        </div>
       </div>
     </div>
     
     <style>
-    .research-showcase {
+    .interests-section {
       font-family: -apple-system, BlinkMacSystemFont, sans-serif;
       line-height: 1.6;
       max-width: 1000px;
       margin: 0 auto;
+      padding: 20px;
+    }
+    
+    .section-title {
+      color: #2c3e50;
+      font-size: 1.8em;
+      font-weight: 600;
+      margin-bottom: 25px;
+      text-align: left;
+    }
+    
+    .research-showcase {
+      margin-top: 10px;
     }
     
     .category {
       background: #f8fafc;
       border-left: 3px solid #4a6ee0;
-      padding: 15px 20px;
+      padding: 16px 20px;
       margin-bottom: 18px;
       border-radius: 0 6px 6px 0;
     }
@@ -98,6 +114,7 @@
       margin: 8px 0;
       color: #4a5568;
       font-size: 0.9em;
+      line-height: 1.6;
     }
     
     .category strong {
@@ -118,190 +135,10 @@
       font-size: 0.9em;
       font-weight: 500;
     }
-    </style>
     
-    <style>
-    .research-showcase {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-      max-width: 1200px;
-      margin: 0 auto;
-      padding: 20px;
-    }
-    
-    .research-category {
-      background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
-      border-radius: 12px;
-      padding: 24px;
-      margin-bottom: 28px;
-      border-left: 4px solid #4a6ee0;
-      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
-      transition: transform 0.2s;
-    }
-    
-    .research-category:hover {
-      transform: translateY(-2px);
-      box-shadow: 0 6px 16px rgba(0, 0, 0, 0.08);
-    }
-    
-    .research-category h3 {
-      color: #2c3e50;
-      margin: 0 0 24px 0;
-      font-size: 1.4em;
-      display: flex;
-      align-items: center;
-      gap: 12px;
-      padding-bottom: 12px;
-      border-bottom: 1px solid rgba(0, 0, 0, 0.08);
-    }
-    
-    .research-category h3 .icon {
-      font-size: 1.2em;
-      background: #4a6ee0;
-      color: white;
-      width: 36px;
-      height: 36px;
-      border-radius: 50%;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-    }
-    
-    .research-items {
-      display: flex;
-      flex-direction: column;
-      gap: 16px;
-    }
-    
-    .research-item {
-      background: white;
-      border-radius: 10px;
-      padding: 18px 20px;
-      border: 1px solid #e9ecef;
-      display: flex;
-      align-items: flex-start;
-      gap: 20px;
-      transition: all 0.2s;
-      position: relative;
-      overflow: hidden;
-    }
-    
-    .research-item:hover {
-      border-color: #4a6ee0;
-      box-shadow: 0 4px 12px rgba(74, 110, 224, 0.1);
-    }
-    
-    .research-item::before {
-      content: '';
-      position: absolute;
-      left: 0;
-      top: 0;
-      bottom: 0;
-      width: 3px;
-      background: #4a6ee0;
-      opacity: 0;
-      transition: opacity 0.3s;
-    }
-    
-    .research-item:hover::before {
-      opacity: 1;
-    }
-    
-    .research-tag {
-      flex-shrink: 0;
-      background: linear-gradient(135deg, #4a6ee0 0%, #6a8bf5 100%);
-      color: white;
-      padding: 8px 16px;
-      border-radius: 8px;
-      font-size: 0.95em;
-      font-weight: 600;
-      min-width: 120px;
-      text-align: center;
-      box-shadow: 0 2px 4px rgba(74, 110, 224, 0.2);
-    }
-    
-    .research-details {
-      flex: 1;
-      display: flex;
-      flex-wrap: wrap;
-      gap: 16px;
-      align-items: center;
-    }
-    
-    .project {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      padding: 8px 12px;
-      background: #f8f9fa;
-      border-radius: 8px;
-      transition: all 0.2s;
-    }
-    
-    .project:hover {
-      background: #e9ecef;
-      transform: translateY(-1px);
-    }
-    
-    .research-title {
-      font-weight: 600;
-      color: #2c3e50;
-      font-size: 0.95em;
-      white-space: nowrap;
-    }
-    
-    .research-venue {
-      background: linear-gradient(135deg, #e8f4fd 0%, #d4e9ff 100%);
-      color: #2c5aa0;
-      padding: 4px 12px;
-      border-radius: 6px;
-      font-size: 0.85em;
-      font-weight: 600;
-      font-family: 'SF Mono', Monaco, Consolas, monospace;
-      white-space: nowrap;
-      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
-    }
-    
-    .research-status {
-      background: linear-gradient(135deg, #fff3cd 0%, #ffeaa7 100%);
-      color: #856404;
-      padding: 4px 12px;
-      border-radius: 6px;
-      font-size: 0.85em;
-      font-weight: 600;
-      white-space: nowrap;
-      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
-    }
-    
-    /* 响应式设计 */
     @media (max-width: 768px) {
-      .research-item {
-        flex-direction: column;
-        gap: 12px;
-      }
-      
-      .research-tag {
-        min-width: auto;
-        width: fit-content;
-        align-self: flex-start;
-      }
-      
-      .research-details {
-        width: 100%;
-      }
-      
-      .project {
-        flex: 1;
-        min-width: calc(50% - 8px);
-      }
-    }
-    
-    @media (max-width: 480px) {
-      .research-category {
-        padding: 16px;
-      }
-      
-      .project {
-        min-width: 100%;
+      .interests-section {
+        padding: 15px;
       }
     }
     </style>
