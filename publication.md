@@ -9,7 +9,7 @@ title: "Publications"
       
       <!-- Publications Section -->
       <div class="publications-section">
-        <h2 class="section-title">Publications</h2>
+        <h2 class="section-title">Selected Publications</h2>
         
         <div class="publications-container">
           
@@ -20,83 +20,23 @@ title: "Publications"
               
               <!-- 论文示例1: AuCom -->
               <div class="publication-item">
-                <div class="pub-header">
-                  <span class="pub-date">Mar 2025</span>
-                  <span class="pub-status accepted">Accepted</span>
-                </div>
                 <div class="pub-content">
-                  <h4 class="pub-title">AuCom: Lossless Acoustic Signal Compression for Ultra-Low Power Communication</h4>
+                  <h4 class="pub-title">Aucom: Extreme Compression for Real-Time Edge-to-Server Universal Audio Streaming</h4>
                   <div class="pub-authors">
-                    <span class="pub-author highlight">Dian Ding</span>, 
-                    <span class="pub-author">Yichao Chen</span>, 
-                    <span class="pub-author">Chenyang Li</span>, 
+                    <span class="pub-author">Yu Lu</span>, 
+                    <span class="pub-author">Ran Wang</span>, 
+                    <span class="pub-author highlight">Dian Ding*</span>, 
+                    <span class="pub-author">Yijie Li</span>, 
+                    <span class="pub-author">Longyuan Ge</span>, 
+                    <span class="pub-author">Juntao Zhou</span>, 
+                    <span class="pub-author">Yongzhao Zhang</span>, 
+                    <span class="pub-author">Yi-Chao Chen</span>, 
+                    <span class="pub-author">Jiannong Cao</span>, 
                     <span class="pub-author">Guangtao Xue</span>
                   </div>
                   <div class="pub-venue">
-                    <span class="venue-icon">📝</span>
                     <span class="venue-name">IEEE Transactions on Mobile Computing (TMC)</span>
-                    <span class="venue-year">2025</span>
-                  </div>
-                  <div class="pub-links">
-                    <a href="#" class="pub-link">PDF</a> •
-                    <a href="#" class="pub-link">Code</a> •
-                    <a href="#" class="pub-link">BibTeX</a>
-                  </div>
-                </div>
-              </div>
-              
-              <!-- 论文示例2: AnchorAttention -->
-              <div class="publication-item">
-                <div class="pub-header">
-                  <span class="pub-date">Aug 2025</span>
-                  <span class="pub-status accepted">Accepted</span>
-                </div>
-                <div class="pub-content">
-                  <h4 class="pub-title">AnchorAttention: Sparse KV Cache for Efficient On-device LLM Inference</h4>
-                  <div class="pub-authors">
-                    <span class="pub-author">Shiwei Zhang</span>, 
-                    <span class="pub-author highlight">Dian Ding</span>, 
-                    <span class="pub-author">Tianyu Wang</span>, 
-                    <span class="pub-author">Guangtao Xue</span>
-                  </div>
-                  <div class="pub-venue">
-                    <span class="venue-icon">📝</span>
-                    <span class="venue-name">Conference on Empirical Methods in Natural Language Processing (EMNLP)</span>
-                    <span class="venue-year">2025</span>
-                  </div>
-                  <div class="pub-links">
-                    <a href="#" class="pub-link">PDF</a> •
-                    <a href="#" class="pub-link">Code</a> •
-                    <a href="#" class="pub-link">BibTeX</a>
-                  </div>
-                </div>
-              </div>
-              
-              <!-- 论文示例3: MODepth -->
-              <div class="publication-item">
-                <div class="pub-header">
-                  <span class="pub-date">Aug 2025</span>
-                  <span class="pub-status accepted">Accepted</span>
-                </div>
-                <div class="pub-content">
-                  <h4 class="pub-title">MODepth: Monocular Depth Estimation for Mobile Devices Using Multi-scale Optical Flow</h4>
-                  <div class="pub-authors">
-                    <span class="pub-author">Wei Zhao</span>, 
-                    <span class="pub-author highlight">Dian Ding</span>, 
-                    <span class="pub-author">Yichao Chen</span>, 
-                    <span class="pub-author">Jing Zhang</span>,
-                    <span class="pub-author">Guangtao Xue</span>
-                  </div>
-                  <div class="pub-venue">
-                    <span class="venue-icon">🎨</span>
-                    <span class="venue-name">ACM SIGGRAPH Asia</span>
-                    <span class="venue-year">2025</span>
-                  </div>
-                  <div class="pub-links">
-                    <a href="#" class="pub-link">PDF</a> •
-                    <a href="#" class="pub-link">Code</a> •
-                    <a href="#" class="pub-link">Video</a> •
-                    <a href="#" class="pub-link">BibTeX</a>
+                    <span class="venue-year">corresponding author</span>
                   </div>
                 </div>
               </div>
@@ -235,40 +175,6 @@ title: "Publications"
             </div>
           </div>
           
-          <!-- 2023年 -->
-          <div class="publications-year">
-            <h3>2023</h3>
-            <div class="publication-items">
-              
-              <!-- 论文示例8: MuDiS -->
-              <div class="publication-item">
-                <div class="pub-header">
-                  <span class="pub-date">Nov 2023</span>
-                  <span class="pub-status accepted">Accepted</span>
-                </div>
-                <div class="pub-content">
-                  <h4 class="pub-title">MuDiS: Multi-directional Acoustic Speaker for Private Audio Communication in Public Spaces</h4>
-                  <div class="pub-authors">
-                    <span class="pub-author highlight">Dian Ding</span>, 
-                    <span class="pub-author">Yichao Chen</span>, 
-                    <span class="pub-author">Xiaoyu Ji</span>,
-                    <span class="pub-author">Guangtao Xue</span>
-                  </div>
-                  <div class="pub-venue">
-                    <span class="venue-icon">📡</span>
-                    <span class="venue-name">ACM International Conference on Mobile Computing and Networking (MobiCom)</span>
-                    <span class="venue-year">2024</span>
-                  </div>
-                  <div class="pub-links">
-                    <a href="#" class="pub-link">PDF</a> •
-                    <a href="#" class="pub-link">Code</a> •
-                    <a href="#" class="pub-link">BibTeX</a>
-                  </div>
-                </div>
-              </div>
-              
-            </div>
-          </div>
           
         </div>
       </div>
