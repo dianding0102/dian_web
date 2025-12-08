@@ -20,7 +20,7 @@ title: "Publications"
       
       <!-- Publications Section -->
       <div class="publications-section">
-        <h2 class="section-title">Publications</h2>
+        <h2 class="section-title">Selected Publications</h2>
         
         <div class="publications-container">
           
