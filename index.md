@@ -39,13 +39,9 @@ sjtu_picture:
 .bio-section {
   font-family: -apple-system, BlinkMacSystemFont, sans-serif;
   line-height: 1.6;
-  max-width: 1400px !important;
-  width: 95% !important;
-  margin: 0 auto 40px !important;
-  padding: 30px !important;
-  background: transparent !important;
-  border-radius: 0 !important;
-  box-shadow: none !important;
+  max-width: 1000px;
+  margin: 0 auto 40px;
+  padding: 20px;
 }
 
 .section-title {
@@ -60,15 +56,6 @@ sjtu_picture:
   display: flex;
   gap: 40px;
   align-items: flex-start;
-  /* 添加以下三行以增加宽度 */
-  max-width: 1300px !important;
-  margin: 0 auto !important;
-  padding: 35px !important;
-  /* 添加白色背景和边框 */
-  background: white !important;
-  border-radius: 12px !important;
-  box-shadow: 0 6px 25px rgba(0, 0, 0, 0.08) !important;
-  border: 1px solid #e9ecef !important;
 }
 
 .bio-text {
@@ -140,63 +127,20 @@ sjtu_picture:
 }
 
 /* 响应式设计 */
-@media (max-width: 1400px) {
-  .bio-section {
-    max-width: 95% !important;
-    margin: 20px auto 40px !important;
-    padding: 25px !important;
-  }
-  
-  .bio-container {
-    max-width: 95% !important;
-    padding: 30px !important;
-  }
-}
-
-@media (max-width: 1200px) {
-  .bio-section {
-    max-width: 98% !important;
-    padding: 20px !important;
-  }
-  
-  .bio-container {
-    max-width: 98% !important;
-    padding: 25px !important;
-  }
-}
-
 @media (max-width: 768px) {
-  .bio-section {
-    max-width: 100% !important;
-    margin: 10px auto 30px !important;
-    padding: 15px !important;
+  .bio-container {
+    flex-direction: column;
+    gap: 30px;
   }
   
-  .bio-container {
-    max-width: 100% !important;
-    padding: 20px !important;
-    flex-direction: column !important;
-    gap: 30px !important;
+  .bio-photo {
+    width: 100%;
+    max-width: 280px;
+    margin: 0 auto;
   }
   
   .bio-text p {
     font-size: 0.95em;
   }
 }
-
-@media (max-width: 480px) {
-  .bio-section {
-    padding: 10px !important;
-  }
-  
-  .bio-container {
-    padding: 15px !important;
-  }
-}
 </style>
-
-
-
-
-
-
