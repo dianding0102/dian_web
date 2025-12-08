@@ -3,6 +3,17 @@ layout: default
 title: "Publications"
 ---
 
+<style>
+/* 方法1: 调整页面整体容器宽度 */
+.page-content {
+  max-width: 1400px !important; /* 使用!important覆盖原有样式 */
+  margin: 0 auto !important;
+  padding: 30px !important;
+  background: white;
+  border-radius: 15px;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.1);
+}
+
 <div class="page-content">
   <div class="wrapper">
     <div class="home">
@@ -133,7 +144,6 @@ title: "Publications"
                   </div>
                   <div class="pub-venue">
                     <span class="venue-name">ACM MobiSys</span>
-                    <span class="venue-year">2025</span>
                     <span class="ccf-rank">CCF-B</span>
                   </div>
                   <div class="pub-award-info">
