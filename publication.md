@@ -103,7 +103,6 @@ title: "Publications"
                     <span class="pub-author">Yiming Zhang*</span>
                   </div>
                   <div class="pub-venue">
-                    <span class="venue-icon">🤖</span>
                     <span class="venue-name">EMNLP</span>
                     <span class="ccf-rank">CCF-B</span>
                   </div>
@@ -222,28 +221,6 @@ title: "Publications"
           <div class="publications-year">
             <h3>2024</h3>
             <div class="publication-items">
-              
-              <!-- SwiftTrack+ -->
-              <div class="publication-item">
-                <div class="pub-content">
-                  <h4 class="pub-title">SwiftTrack+: Fine-Grained and Robust Fast Hand Motion Tracking Using Acoustic Signal</h4>
-                  <div class="pub-authors">
-                    <span class="pub-author">Yongzhao Zhang</span>, 
-                    <span class="pub-author">Hao Pan</span>, 
-                    <span class="pub-author highlight">Dian Ding</span>, 
-                    <span class="pub-author">Yue Pan</span>, 
-                    <span class="pub-author">Yi-Chao Chen</span>, 
-                    <span class="pub-author">Lili Qiu</span>, 
-                    <span class="pub-author">Guangtao Xue</span>, 
-                    <span class="pub-author">Ting Chen</span>, 
-                    <span class="pub-author">Xiaosong Zhang</span>
-                  </div>
-                  <div class="pub-venue">
-                    <span class="venue-name">IEEE/ACM TON</span>
-                    <span class="ccf-rank">CCF-A</span>
-                  </div>
-                </div>
-              </div>
               
               <!-- M3Cam -->
               <div class="publication-item">
@@ -387,7 +364,6 @@ title: "Publications"
                     <span class="ccf-rank">CCF-B</span>
                   </div>
                   <div class="pub-correspondence">
-                    <span class="corr-icon">🥇</span>
                     <span class="corr-text"># first author</span>
                   </div>
                 </div>
