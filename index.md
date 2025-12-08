@@ -26,7 +26,7 @@ sjtu_picture:
   <div class="bio-container">
     <div class="bio-text">
       <p>
-        My name is <span class="highlight">Dian Ding</span>, I received the Ph.D in Department of Computer Science and Engineering at <span class="highlight">Shanghai Jiao Tong University</span> in 2023, M.S. in the School of Automation Science and Electrical Engineering at <span class="highlight">Beihang University</span> in 2019, and the B.S. degree in the School of Information Science and Technology at <span class="highlight">Northwest University</span> in 2016. 
+        My name is <span class="highlight">Dian Ding</span>, I received the Ph.D in Department of Computer Science and Engineering at <span class="highlight">Shanghai Jiao Tong University</span> in 2023. 
       </p>
       <p>
         I am currently <span class="highlight">a postdoctoral researcher in the Department of Computer Science and Engineering at Shanghai Jiao Tong University</span>.
@@ -43,14 +43,6 @@ sjtu_picture:
       </div>
     </div>
     
-    <div class="bio-photo">
-      <img src="/assets/img/dian.png" alt="Dian Ding">
-      <div class="photo-caption">
-        <p><strong>Dian Ding, Ph.D.</strong></p>
-        <p>Postdoctoral Researcher</p>
-        <p>Shanghai Jiao Tong University</p>
-      </div>
-    </div>
   </div>
 </div>
 
