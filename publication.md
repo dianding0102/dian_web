@@ -41,6 +41,24 @@ title: "Publications"
                 </div>
               </div>
               
+              <div class="publication-item">
+                <div class="pub-content">
+                  <h4 class="pub-title">Sniffing the Application Usage Information With the Leakage Current of Laptops</h4>
+                  <div class="pub-authors">
+                    <span class="pub-author highlight">Dian Ding</span>, 
+                    <span class="pub-author">Yijie Li</span>, 
+                    <span class="pub-author">Yongzhao Zhang</span>, 
+                    <span class="pub-author">Yi-Chao Chen</span>, 
+                    <span class="pub-author">Xiaoyu Ji</span>, 
+                    <span class="pub-author">Guangtao Xue</span>
+                  </div>
+                  <div class="pub-venue">
+                    <span class="venue-name">IEEE Transactions on Mobile Computing (TMC)</span>
+                    <span class="venue-year">first author</span>
+                  </div>
+                </div>
+              </div>
+
               <!-- 论文示例4: Bridge (获奖论文) -->
               <div class="publication-item award">
                 <div class="pub-header">
