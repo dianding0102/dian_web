@@ -29,7 +29,7 @@ sjtu_picture:
         My name is <span class="highlight">Dian Ding</span>, I received the Ph.D in School of Computer Science at <span class="highlight">Shanghai Jiao Tong University</span> in 2023, under the supervision of Prof. Guangtao Xue and Assoc. Prof. Yichao Chen.
       </p>
       <p>
-        I am currently <span class="highlight">a postdoctoral researcher</span> in School of Computer Science and Engineering at <span class="highlight">Shanghai Jiao Tong University</span>. My research focuses on intelligent sensing and computing systems for the Internet of Things, with over 30 papers published in top-tier international conferences and journals including ACM MobiCom, IMWUT, EuroSys, SenSys, MobiSys, IEEE INFOCOM, and TMC. My work has been recognized with awards such as the <span class="highlight">ACM MobiSys 2025 Best Artifact Runner-up</span>, <span class="highlight">ACM UbiComp 2024 MIMSVAI Best Paper Award</span>, and <span class="highlight">2021 World Artificial Intelligence Conference Youth Outstanding Paper Nomination Award</span>.
+        I am currently <span class="highlight">a postdoctoral researcher</span> in School of Computer Science and Engineering at <span class="highlight">Shanghai Jiao Tong University</span>. My research focuses on <span class="highlight">intelligent sensing and computing systems for the Internet of Things</span>.
       </p>
   </div>
 </div>
