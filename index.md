@@ -31,18 +31,6 @@ sjtu_picture:
       <p>
         I am currently <span class="highlight">a postdoctoral researcher in the Department of Computer Science and Engineering at Shanghai Jiao Tong University</span>.
       </p>
-      
-      <div class="contact-info">
-        <p><strong>Email:</strong> dian.ding@sjtu.edu.cn</p>
-        <p><strong>Office:</strong> Department of Computer Science and Engineering, Shanghai Jiao Tong University</p>
-        <p><strong>Links:</strong> 
-          <a href="#">Google Scholar</a> | 
-          <a href="#">GitHub</a> | 
-          <a href="#">CV/Resume</a>
-        </p>
-      </div>
-    </div>
-    
   </div>
 </div>
 
