@@ -4,15 +4,340 @@ title: "Publications"
 ---
 
 <style>
-/* 方法1: 调整页面整体容器宽度 */
+/* 整体页面宽度调整 */
 .page-content {
-  max-width: 1400px !important; /* 使用!important覆盖原有样式 */
-  margin: 0 auto !important;
+  max-width: 1400px !important;
+  width: 95% !important;
+  margin: 30px auto !important;
   padding: 30px !important;
-  background: white;
-  border-radius: 15px;
-  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.1);
+  background: white !important;
+  border-radius: 15px !important;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.1) !important;
 }
+
+.wrapper {
+  max-width: 1300px !important;
+  margin: 0 auto !important;
+}
+
+.home {
+  max-width: 1200px !important;
+  margin: 0 auto !important;
+  padding: 20px !important;
+}
+
+/* Publications Section Styles - 增加宽度 */
+.publications-section {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  line-height: 1.6;
+  max-width: 100% !important;
+  margin: 0 auto;
+  padding: 0 !important;
+}
+
+.section-title {
+  color: #2c3e50;
+  font-size: 2em;
+  font-weight: 700;
+  margin-bottom: 35px;
+  text-align: left;
+  position: relative;
+  padding-bottom: 15px;
+  border-bottom: 2px solid #e2e8f0;
+}
+
+.section-title::after {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 100px;
+  height: 2px;
+  background: #4a6ee0;
+}
+
+.publications-container {
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 35px !important;
+  box-shadow: 0 6px 25px rgba(0, 0, 0, 0.08);
+  border: 1px solid #e9ecef;
+  max-width: 100% !important;
+  margin: 0 auto;
+}
+
+.publications-year {
+  margin-bottom: 40px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #edf2f7;
+}
+
+.publications-year:last-child {
+  margin-bottom: 0;
+  border-bottom: none;
+}
+
+.publications-year h3 {
+  color: #2c3e50;
+  font-size: 1.6em;
+  font-weight: 700;
+  margin-bottom: 25px;
+  padding-left: 15px;
+  position: relative;
+  background: linear-gradient(90deg, rgba(74, 110, 224, 0.1) 0%, rgba(255,255,255,0) 100%);
+  padding: 12px 20px;
+  border-radius: 8px;
+}
+
+.publications-year h3::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 6px;
+  height: 30px;
+  background: linear-gradient(180deg, #4a6ee0 0%, #2c5aa0 100%);
+  border-radius: 3px;
+}
+
+.publication-items {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+}
+
+.publication-item {
+  background: #f8fafc;
+  border-radius: 10px;
+  padding: 25px 30px !important; /* 增加左右内边距 */
+  border-left: 5px solid #4a6ee0;
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+  width: 100% !important; /* 确保占满容器宽度 */
+}
+
+.publication-item:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.12);
+  border-left-color: #2c5aa0;
+}
+
+.publication-item.award {
+  border-left: 5px solid #d69e2e;
+  background: linear-gradient(to right, #fffaf0, #f8fafc);
+}
+
+.pub-content {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.pub-title {
+  color: #2c3e50;
+  font-size: 1.3em;
+  font-weight: 700;
+  line-height: 1.4;
+  margin-bottom: 5px;
+}
+
+.pub-authors {
+  color: #4a5568;
+  font-size: 1em;
+  line-height: 1.6;
+  margin-bottom: 5px;
+}
+
+.pub-author {
+  color: #4a5568;
+}
+
+.pub-author.highlight {
+  color: #4a6ee0;
+  font-weight: 800;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 4px;
+  background: rgba(74, 110, 224, 0.1);
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
+.pub-venue {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: #718096;
+  font-size: 0.95em;
+  margin-top: 5px;
+  flex-wrap: wrap;
+  padding: 10px 0;
+  border-top: 1px dashed #e2e8f0;
+  border-bottom: 1px dashed #e2e8f0;
+}
+
+.venue-name {
+  font-weight: 600;
+  color: #2d3748;
+}
+
+.ccf-rank {
+  font-weight: 700;
+  padding: 4px 12px;
+  border-radius: 15px;
+  font-size: 0.85em;
+  text-transform: uppercase;
+  background: #e6fffa;
+  color: #234e52;
+  border: 1px solid #81e6d9;
+}
+
+.pub-correspondence {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 8px;
+  padding: 8px 12px;
+  background: #f7fafc;
+  border-radius: 6px;
+  border-left: 3px solid #4a6ee0;
+  font-size: 0.9em;
+  color: #4a5568;
+}
+
+.corr-text {
+  font-weight: 600;
+  color: #4a6ee0;
+}
+
+.pub-award-info {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 10px;
+  padding: 10px 15px;
+  background: #fffaf0;
+  border-radius: 8px;
+  border-left: 4px solid #d69e2e;
+}
+
+.award-icon {
+  font-size: 1.2em;
+}
+
+.award-text {
+  color: #d69e2e;
+  font-weight: 800;
+  font-size: 0.95em;
+}
+
+/* 响应式设计 */
+@media (max-width: 1400px) {
+  .page-content {
+    max-width: 95% !important;
+    margin: 20px auto !important;
+    padding: 25px !important;
+  }
+  
+  .publications-container {
+    padding: 30px !important;
+  }
+}
+
+@media (max-width: 1200px) {
+  .page-content {
+    max-width: 98% !important;
+    padding: 25px !important;
+  }
+  
+  .pub-title {
+    font-size: 1.2em;
+  }
+}
+
+@media (max-width: 992px) {
+  .page-content {
+    max-width: 98% !important;
+    margin: 15px auto !important;
+    padding: 20px !important;
+  }
+  
+  .publications-container {
+    padding: 25px !important;
+  }
+  
+  .publication-item {
+    padding: 20px !important;
+  }
+}
+
+@media (max-width: 768px) {
+  .page-content {
+    max-width: 100% !important;
+    margin: 10px auto !important;
+    padding: 15px !important;
+    border-radius: 0 !important;
+  }
+  
+  .publications-container {
+    padding: 20px !important;
+  }
+  
+  .publication-item {
+    padding: 15px !important;
+  }
+  
+  .section-title {
+    font-size: 1.7em;
+  }
+  
+  .publications-year h3 {
+    font-size: 1.4em;
+  }
+  
+  .pub-title {
+    font-size: 1.1em;
+  }
+  
+  .pub-authors {
+    font-size: 0.95em;
+  }
+  
+  .pub-venue {
+    font-size: 0.9em;
+  }
+}
+
+@media (max-width: 480px) {
+  .section-title {
+    font-size: 1.5em;
+  }
+  
+  .publications-year h3 {
+    font-size: 1.2em;
+  }
+  
+  .publication-item {
+    padding: 12px !important;
+  }
+  
+  .pub-title {
+    font-size: 1em;
+  }
+  
+  .pub-authors {
+    font-size: 0.9em;
+  }
+  
+  .pub-venue {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 5px;
+  }
+}
+</style>
 
 <div class="page-content">
   <div class="wrapper">
@@ -226,6 +551,8 @@ title: "Publications"
                 </div>
               </div>
               
+            </div>
+          </div>
           
           <!-- 2024年 -->
           <div class="publications-year">
@@ -469,364 +796,6 @@ title: "Publications"
           
         </div>
       </div>
-      
-      <style>
-        /* Publications Section Styles - 增强版本 */
-        .publications-section {
-          font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-          line-height: 1.6;
-          max-width: 1200px;
-          margin: 0 auto;
-          padding: 20px;
-        }
-        
-        .section-title {
-          color: #2c3e50;
-          font-size: 2em;
-          font-weight: 700;
-          margin-bottom: 30px;
-          text-align: left;
-          position: relative;
-          padding-bottom: 15px;
-          border-bottom: 2px solid #e2e8f0;
-        }
-        
-        .section-title::after {
-          content: '';
-          position: absolute;
-          bottom: -2px;
-          left: 0;
-          width: 100px;
-          height: 2px;
-          background: #4a6ee0;
-        }
-        
-        .publications-container {
-          background: #ffffff;
-          border-radius: 12px;
-          padding: 30px;
-          box-shadow: 0 6px 25px rgba(0, 0, 0, 0.08);
-          border: 1px solid #e9ecef;
-        }
-        
-        .publications-year {
-          margin-bottom: 40px;
-          padding-bottom: 20px;
-          border-bottom: 1px solid #edf2f7;
-        }
-        
-        .publications-year:last-child {
-          margin-bottom: 0;
-          border-bottom: none;
-        }
-        
-        .publications-year h3 {
-          color: #2c3e50;
-          font-size: 1.6em;
-          font-weight: 700;
-          margin-bottom: 25px;
-          padding-left: 15px;
-          position: relative;
-          background: linear-gradient(90deg, rgba(74, 110, 224, 0.1) 0%, rgba(255,255,255,0) 100%);
-          padding: 12px 20px;
-          border-radius: 8px;
-        }
-        
-        .publications-year h3::before {
-          content: '';
-          position: absolute;
-          left: 0;
-          top: 50%;
-          transform: translateY(-50%);
-          width: 6px;
-          height: 30px;
-          background: linear-gradient(180deg, #4a6ee0 0%, #2c5aa0 100%);
-          border-radius: 3px;
-        }
-        
-        .publication-items {
-          display: flex;
-          flex-direction: column;
-          gap: 25px;
-        }
-        
-        .publication-item {
-          background: #f8fafc;
-          border-radius: 10px;
-          padding: 25px;
-          border-left: 5px solid #4a6ee0;
-          transition: all 0.3s ease;
-          position: relative;
-          overflow: hidden;
-        }
-        
-        .publication-item:hover {
-          transform: translateY(-4px);
-          box-shadow: 0 10px 30px rgba(0, 0, 0, 0.12);
-          border-left-color: #2c5aa0;
-        }
-        
-        .publication-item.award {
-          border-left: 5px solid #d69e2e;
-          background: linear-gradient(to right, #fffaf0, #f8fafc);
-        }
-        
-        .pub-header {
-          display: flex;
-          align-items: center;
-          gap: 15px;
-          margin-bottom: 18px;
-          flex-wrap: wrap;
-        }
-        
-        .pub-date {
-          color: #718096;
-          font-size: 0.95em;
-          font-weight: 600;
-          font-family: 'SF Mono', Monaco, Consolas, monospace;
-          background: #edf2f7;
-          padding: 6px 15px;
-          border-radius: 20px;
-        }
-        
-        .pub-status {
-          font-size: 0.9em;
-          font-weight: 700;
-          padding: 6px 15px;
-          border-radius: 20px;
-          text-transform: uppercase;
-        }
-        
-        .pub-status.accepted {
-          background: #c6f6d5;
-          color: #22543d;
-        }
-        
-        .pub-status.published {
-          background: #bee3f8;
-          color: #2c5282;
-        }
-        
-        .pub-award {
-          font-size: 0.9em;
-          font-weight: 700;
-          color: #d69e2e;
-          background: #fffaf0;
-          padding: 6px 15px;
-          border-radius: 20px;
-          display: inline-flex;
-          align-items: center;
-          gap: 8px;
-          border: 1px solid #f6e05e;
-        }
-        
-        .pub-content {
-          display: flex;
-          flex-direction: column;
-          gap: 12px;
-        }
-        
-        .pub-title {
-          color: #2c3e50;
-          font-size: 1.3em;
-          font-weight: 700;
-          line-height: 1.4;
-          margin-bottom: 5px;
-        }
-        
-        .pub-authors {
-          color: #4a5568;
-          font-size: 1em;
-          line-height: 1.6;
-          margin-bottom: 5px;
-        }
-        
-        .pub-author {
-          color: #4a5568;
-        }
-        
-        .pub-author.highlight {
-          color: #4a6ee0;
-          font-weight: 800;
-          text-decoration: underline;
-          text-decoration-thickness: 2px;
-          text-underline-offset: 4px;
-          background: rgba(74, 110, 224, 0.1);
-          padding: 2px 6px;
-          border-radius: 4px;
-        }
-        
-        .pub-venue {
-          display: flex;
-          align-items: center;
-          gap: 10px;
-          color: #718096;
-          font-size: 0.95em;
-          margin-top: 5px;
-          flex-wrap: wrap;
-          padding: 10px 0;
-          border-top: 1px dashed #e2e8f0;
-          border-bottom: 1px dashed #e2e8f0;
-        }
-        
-        .venue-icon {
-          font-size: 1em;
-        }
-        
-        .venue-name {
-          font-weight: 600;
-          color: #2d3748;
-        }
-        
-        .venue-year {
-          font-weight: 700;
-          color: #4a6ee0;
-          background: #edf2f7;
-          padding: 3px 10px;
-          border-radius: 15px;
-        }
-        
-        .ccf-rank {
-          font-weight: 700;
-          padding: 4px 12px;
-          border-radius: 15px;
-          font-size: 0.85em;
-          text-transform: uppercase;
-        }
-        
-        .ccf-rank {
-          background: #e6fffa;
-          color: #234e52;
-          border: 1px solid #81e6d9;
-        }
-        
-        .pub-correspondence {
-          display: flex;
-          align-items: center;
-          gap: 8px;
-          margin-top: 8px;
-          padding: 8px 12px;
-          background: #f7fafc;
-          border-radius: 6px;
-          border-left: 3px solid #4a6ee0;
-          font-size: 0.9em;
-          color: #4a5568;
-        }
-        
-        .corr-icon {
-          font-size: 1em;
-        }
-        
-        .corr-text {
-          font-weight: 600;
-          color: #4a6ee0;
-        }
-        
-        .pub-award-info {
-          display: flex;
-          align-items: center;
-          gap: 10px;
-          margin-top: 10px;
-          padding: 10px 15px;
-          background: #fffaf0;
-          border-radius: 8px;
-          border-left: 4px solid #d69e2e;
-        }
-        
-        .award-icon {
-          font-size: 1.2em;
-        }
-        
-        .award-text {
-          color: #d69e2e;
-          font-weight: 800;
-          font-size: 0.95em;
-        }
-        
-        /* 响应式设计 */
-        @media (max-width: 992px) {
-          .publications-section {
-            max-width: 95%;
-            padding: 15px;
-          }
-          
-          .publications-container {
-            padding: 25px;
-          }
-          
-          .pub-title {
-            font-size: 1.2em;
-          }
-        }
-        
-        @media (max-width: 768px) {
-          .publications-section {
-            padding: 10px;
-          }
-          
-          .publications-container {
-            padding: 20px;
-          }
-          
-          .pub-header {
-            flex-direction: column;
-            align-items: flex-start;
-            gap: 10px;
-          }
-          
-          .pub-title {
-            font-size: 1.1em;
-          }
-          
-          .pub-authors {
-            font-size: 0.95em;
-          }
-          
-          .pub-venue {
-            font-size: 0.9em;
-          }
-          
-          .publication-item {
-            padding: 20px;
-          }
-          
-          .section-title {
-            font-size: 1.7em;
-          }
-          
-          .publications-year h3 {
-            font-size: 1.4em;
-          }
-        }
-        
-        @media (max-width: 480px) {
-          .section-title {
-            font-size: 1.5em;
-          }
-          
-          .publications-year h3 {
-            font-size: 1.2em;
-          }
-          
-          .publication-item {
-            padding: 15px;
-          }
-          
-          .pub-title {
-            font-size: 1em;
-          }
-          
-          .pub-authors {
-            font-size: 0.9em;
-          }
-          
-          .pub-venue {
-            flex-direction: column;
-            align-items: flex-start;
-            gap: 5px;
-          }
-        }
-      </style>
       
     </div>
   </div>
