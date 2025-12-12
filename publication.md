@@ -8,7 +8,7 @@ title: "Publications"
 .page-content {
   max-width: 1200px !important;
   width: 95% !important;
-  margin: 20px auto !important;
+  margin: 10px auto !important;
   padding: 0 !important;
   background: transparent !important;
   border-radius: 0 !important;
@@ -29,10 +29,10 @@ title: "Publications"
 /* Publications Section Styles - 简洁紧凑设计 */
 .publications-section {
   font-family: 'SF Pro Text', -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
-  line-height: 1.35;
+  line-height: 1.3;
   max-width: 100% !important;
   margin: 0 auto;
-  padding: 10px;
+  padding: 8px;
   font-size: 1.02em;
   color: #111827;
 }
@@ -41,9 +41,9 @@ title: "Publications"
   color: #1a1a1a;
   font-size: 1.55em;
   font-weight: 700;
-  margin-bottom: 16px;
-  padding-bottom: 6px;
-  border-bottom: 1.5px solid #d1d5db;
+  margin-bottom: 12px;
+  padding-bottom: 4px;
+  border-bottom: 1px solid #d1d5db;
   letter-spacing: -0.02em;
   font-family: 'SF Pro Display', -apple-system, BlinkMacSystemFont, sans-serif;
 }
@@ -57,71 +57,67 @@ title: "Publications"
 }
 
 .publications-year {
-  margin-bottom: 20px;
-  padding-bottom: 12px;
-  border-bottom: 1px solid #e5e7eb;
+  margin-bottom: 12px;
 }
 
 .publications-year:last-child {
   margin-bottom: 0;
-  border-bottom: none;
 }
 
 .publications-year h3 {
   color: #111827;
-  font-size: 1.15em;
+  font-size: 1.1em;
   font-weight: 650;
-  margin-bottom: 12px;
-  padding: 8px 12px;
+  margin-bottom: 8px;
+  padding: 6px 10px;
   background: #f9fafb;
   border-radius: 4px;
-  border-left: 3px solid #4f46e5;
+  border-left: 2px solid #4f46e5;
   font-family: 'SF Pro Display', -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
 .publication-items {
   display: flex;
   flex-direction: column;
-  gap: 10px;
+  gap: 6px;
 }
 
 .publication-item {
   background: #ffffff;
-  border-radius: 5px;
-  padding: 12px 14px;
+  border-radius: 4px;
+  padding: 10px 12px;
   border: 1px solid #e5e7eb;
-  transition: all 0.15s ease;
+  transition: all 0.1s ease;
   position: relative;
 }
 
 .publication-item:hover {
   border-color: #d1d5db;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
 }
 
 .publication-item.award {
-  border-left: 3px solid #d97706;
+  border-left: 2px solid #d97706;
   background: #fff7ed;
 }
 
 .pub-content {
   display: flex;
   flex-direction: column;
-  gap: 6px;
+  gap: 4px;
 }
 
 .pub-title {
   color: #1f2937;
   font-size: 1.02em;
   font-weight: 650;
-  line-height: 1.4;
+  line-height: 1.35;
   margin-bottom: 0;
 }
 
 .pub-authors {
   color: #4b5563;
   font-size: 0.94em;
-  line-height: 1.4;
+  line-height: 1.35;
   margin-bottom: 0;
 }
 
@@ -134,20 +130,19 @@ title: "Publications"
   font-weight: 700;
   background: rgba(79, 70, 229, 0.08);
   padding: 1px 4px;
-  border-radius: 3px;
+  border-radius: 2px;
 }
 
 .pub-venue {
   display: flex;
   align-items: center;
-  gap: 8px;
+  gap: 6px;
   color: #6b7280;
   font-size: 0.9em;
-  margin-top: 4px;
+  margin-top: 2px;
   flex-wrap: wrap;
-  padding: 6px 0;
+  padding: 4px 0;
   border-top: 1px solid #f3f4f6;
-  border-bottom: none;
 }
 
 .venue-name {
@@ -157,9 +152,9 @@ title: "Publications"
 
 .ccf-rank {
   font-weight: 600;
-  padding: 2px 8px;
-  border-radius: 12px;
-  font-size: 0.82em;
+  padding: 1px 6px;
+  border-radius: 10px;
+  font-size: 0.8em;
   text-transform: uppercase;
   background: #f3f4f6;
   color: #4b5563;
@@ -169,13 +164,13 @@ title: "Publications"
 .pub-correspondence {
   display: flex;
   align-items: center;
-  gap: 6px;
-  margin-top: 6px;
-  padding: 5px 8px;
+  gap: 4px;
+  margin-top: 4px;
+  padding: 3px 6px;
   background: #f9fafb;
-  border-radius: 4px;
-  border-left: 2px solid #4f46e5;
-  font-size: 0.86em;
+  border-radius: 3px;
+  border-left: 1px solid #4f46e5;
+  font-size: 0.85em;
   color: #4b5563;
 }
 
@@ -187,43 +182,44 @@ title: "Publications"
 .pub-award-info {
   display: flex;
   align-items: center;
-  gap: 8px;
-  margin-top: 6px;
-  padding: 6px 10px;
+  gap: 6px;
+  margin-top: 4px;
+  padding: 4px 8px;
   background: #fff7ed;
-  border-radius: 4px;
-  border-left: 2px solid #d97706;
+  border-radius: 3px;
+  border-left: 1px solid #d97706;
 }
 
 .award-icon {
-  font-size: 1em;
+  font-size: 0.95em;
 }
 
 .award-text {
   color: #92400e;
   font-weight: 600;
-  font-size: 0.88em;
+  font-size: 0.86em;
 }
 
 /* 响应式设计 */
 @media (max-width: 768px) {
   .page-content {
     max-width: 98% !important;
-    margin: 10px auto !important;
+    margin: 8px auto !important;
   }
   
   .publications-section {
-    padding: 8px;
+    padding: 6px;
     font-size: 1em;
   }
   
   .section-title {
     font-size: 1.35em;
-    margin-bottom: 12px;
+    margin-bottom: 10px;
   }
   
   .publications-year h3 {
-    font-size: 1.1em;
+    font-size: 1.05em;
+    padding: 5px 8px;
   }
   
   .pub-title {
@@ -236,32 +232,34 @@ title: "Publications"
   
   .pub-venue {
     font-size: 0.88em;
+    gap: 4px;
   }
   
   .pub-correspondence {
-    font-size: 0.84em;
+    font-size: 0.83em;
   }
   
   .award-text {
-    font-size: 0.86em;
+    font-size: 0.84em;
   }
 }
 
 @media (max-width: 480px) {
   .publications-section {
-    padding: 6px;
+    padding: 4px;
   }
   
   .section-title {
     font-size: 1.3em;
+    margin-bottom: 8px;
   }
   
   .publications-year h3 {
-    font-size: 1.05em;
+    font-size: 1em;
   }
   
   .publication-item {
-    padding: 10px 12px;
+    padding: 8px 10px;
   }
   
   .pub-title {
@@ -275,8 +273,8 @@ title: "Publications"
   .pub-venue {
     flex-direction: column;
     align-items: flex-start;
-    gap: 4px;
-    padding: 4px 0;
+    gap: 2px;
+    padding: 3px 0;
   }
 }
 </style>
