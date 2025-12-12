@@ -72,7 +72,7 @@ title: "Publications"
   padding: 6px 10px;
   background: #f9fafb;
   border-radius: 4px;
-  border-left: 2px solid #4f46e5;
+  border-left: 2px solid #4a6ee0; /* 修改为 #4a6ee0 */
   font-family: 'SF Pro Display', -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
@@ -126,9 +126,9 @@ title: "Publications"
 }
 
 .pub-author.highlight {
-  color: ##4a6ee0;
+  color: #4a6ee0; /* 修改为 #4a6ee0 */
   font-weight: 700;
-  background: rgba(79, 70, 229, 0.08);
+  background: rgba(74, 110, 224, 0.08); /* 修改为 rgba(74, 110, 224, 0.08) */
   padding: 1px 4px;
   border-radius: 2px;
 }
@@ -169,14 +169,14 @@ title: "Publications"
   padding: 3px 6px;
   background: #f9fafb;
   border-radius: 3px;
-  border-left: 1px solid #4f46e5;
+  border-left: 1px solid #4a6ee0; /* 修改为 #4a6ee0 */
   font-size: 0.85em;
   color: #4b5563;
 }
 
 .corr-text {
   font-weight: 600;
-  color: ##4a6ee0;
+  color: #4a6ee0; /* 修改为 #4a6ee0 */
 }
 
 .pub-award-info {
