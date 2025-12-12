@@ -48,143 +48,149 @@
       <div class="research-showcase">
         <div class="category">
           <h3>Wireless Communication and Sensing</h3>
-          <p><strong>Acoustic:</strong> directional speaker (MuDis <small>MobiCom'24</small>), spot speaker (VISAR <small>IMWUT'24</small>), signal compression (AuCom <small>TMC'25</small>), lip reading (M2Silent <small>CHI'25</small>), tracking (SwiftTrack <small>TON'24</small>)</p>
-          <p><strong>Human-capacitance:</strong> human-body communication (TouchHBC <small>UbiComp'24/TMC'25</small>), device recogniton (LeakThief <small>SECON'23/TMC'25</small>), hand gesture (HandPad <small>UIST'24/UbiComp'24</small>), user identification (LeakPrint <small>IMWUT'21</small>)</p>
-          <p><strong>RF:</strong> BLE locolization (Bridge <small>MobiCom'25</small>), BLE attack (SADIF <small>MobiHoc'25</small>), mmwave imaging (MMID <small>MobiSys'25</small>)</p>
-          <p><strong>Visual:</strong> super resolution (M3Cam <small>SenSys'24</small>), depth estimation (MODepth <small>Siggraph Asia'25</small>)</p>
+          <p><strong>Acoustic:</strong> <span class="research-point">directional speaker (MuDis <small>MobiCom'24</small>)</span>, <span class="research-point">spot speaker (VISAR <small>IMWUT'24</small>)</span>, <span class="research-point">signal compression (AuCom <small>TMC'25</small>)</span>, <span class="research-point">lip reading (M2Silent <small>CHI'25</small>)</span>, <span class="research-point">tracking (SwiftTrack <small>TON'24</small>)</span></p>
+          <p><strong>Human-capacitance:</strong> <span class="research-point">human-body communication (TouchHBC <small>UbiComp'24/TMC'25</small>)</span>, <span class="research-point">device recogniton (LeakThief <small>SECON'23/TMC'25</small>)</span>, <span class="research-point">hand gesture (HandPad <small>UIST'24/UbiComp'24</small>)</span>, <span class="research-point">user identification (LeakPrint <small>IMWUT'21</small>)</span></p>
+          <p><strong>RF:</strong> <span class="research-point">BLE locolization (Bridge <small>MobiCom'25</small>)</span>, <span class="research-point">BLE attack (SADIF <small>MobiHoc'25</small>)</span>, <span class="research-point">mmwave imaging (MMID <small>MobiSys'25</small>)</span></p>
+          <p><strong>Visual:</strong> <span class="research-point">super resolution (M3Cam <small>SenSys'24</small>)</span>, <span class="research-point">depth estimation (MODepth <small>Siggraph Asia'25</small>)</span></p>
         </div>
-        
-        <!-- <div class="category">
-          <h3>Wireless Communication</h3>
-          <p><strong>Acoustic Communication:</strong> directional speaker (MuDis <small>MobiCom'24</small>), spot speaker (VISAR <small>IMWUT'24</small>), signal compression (AuCom <small>TMC'25</small>)</p>
-          <p><strong>Human-capacitance:</strong> human-body communication (TouchHBC <small>TMC'25</small>), human-body communication (TouchHBC <small>TMC'25</small>)</p>
-        </div> -->
         
         <div class="category">
           <h3>Smart Health</h3>
-          <p><strong>MRI:</strong> super resolution (<small>BIBM'25</small>)</p>
-          <p><strong>ECG:</strong> pacemaker recognition (STELLAR <small>BIBM'25</small>)</p>
-          <p><strong>Bowel Sound:</strong> <span class="ongoing">mobile monitor (ongoing)</span></p>
+          <p><strong>MRI:</strong> <span class="research-point">super resolution (<small>BIBM'25</small>)</span></p>
+          <p><strong>ECG:</strong> <span class="research-point">pacemaker recognition (STELLAR <small>BIBM'25</small>)</span></p>
+          <p><strong>Bowel Sound:</strong> <span class="research-point ongoing">mobile monitor (ongoing)</span></p>
         </div>
         
         <div class="category">
           <h3>On-device LLM</h3>
-          <p><strong>KV Cache:</strong> sparse (AnchorAttention <small>EMNLP'25</small>), <span class="ongoing">quant (ongoing)</span></p>
-          <p><strong>MLLM:</strong> <span class="ongoing">inference (ongoing)</span></p>
+          <p><strong>KV Cache:</strong> <span class="research-point">sparse (AnchorAttention <small>EMNLP'25</small>)</span>, <span class="research-point ongoing">quant (ongoing)</span></p>
+          <p><strong>MLLM:</strong> <span class="research-point ongoing">inference (ongoing)</span></p>
         </div>
       </div>
     </div>
     
     <style>
+    .interests-section {
+      font-family: 'SF Pro Text', -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+      line-height: 1.35;
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 10px;
+      color: #111827;
+    }
+    
+    .section-title {
+      color: #1a1a1a;
+      font-size: 1.5em;
+      font-weight: 700;
+      margin-bottom: 12px;
+      padding-bottom: 6px;
+      border-bottom: 1.5px solid #d1d5db;
+      letter-spacing: -0.02em;
+      font-family: 'SF Pro Display', -apple-system, BlinkMacSystemFont, sans-serif;
+    }
+    
+    .research-showcase {
+      margin-top: 2px;
+    }
+    
+    .category {
+      background: #ffffff;
+      border: 1px solid #e5e7eb;
+      border-radius: 4px;
+      padding: 12px 14px;
+      margin-bottom: 10px;
+      box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
+    }
+    
+    .category h3 {
+      color: #111827;
+      margin: 0 0 8px 0;
+      font-size: 1.05em;
+      font-weight: 650;
+      letter-spacing: -0.01em;
+      font-family: 'SF Pro Display', -apple-system, BlinkMacSystemFont, sans-serif;
+    }
+    
+    .category p {
+      margin: 5px 0;
+      color: #374151;
+      font-size: 0.93em;
+      line-height: 1.45;
+    }
+    
+    .category strong {
+      color: #4f46e5;
+      font-weight: 600;
+      display: inline-block;
+      min-width: 150px;
+      font-size: 0.95em;
+      font-family: 'SF Pro Text', -apple-system, BlinkMacSystemFont, sans-serif;
+    }
+    
+    .research-point {
+      font-weight: 500;
+      color: #1f2937;
+      margin-right: 2px;
+      font-size: 0.95em;
+      font-family: 'SF Pro Text', -apple-system, BlinkMacSystemFont, sans-serif;
+    }
+    
+    .category small {
+      color: #6b7280;
+      font-weight: 500;
+      font-size: 0.82em;
+      background: #f3f4f6;
+      padding: 1px 4px;
+      border-radius: 2px;
+      margin-left: 2px;
+      letter-spacing: -0.01em;
+      font-family: 'SF Mono', 'Monaco', 'Menlo', monospace;
+    }
+    
+    .ongoing {
+      color: #92400e;
+      font-weight: 600;
+      background: #fef3c7;
+      padding: 1px 5px;
+      border-radius: 3px;
+      font-size: 0.9em;
+      border: 1px solid #fbbf24;
+    }
+    
+    @media (max-width: 768px) {
       .interests-section {
-        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
-        line-height: 1.4;
-        max-width: 900px;
-        margin: 0 auto;
-        padding: 12px;
-        color: #111827;
+        padding: 8px;
       }
       
       .section-title {
-        color: #1f2937;
-        font-size: 1.6em;
-        font-weight: 700;
-        margin-bottom: 16px;
-        padding-bottom: 6px;
-        border-bottom: 2px solid #d1d5db;
-        letter-spacing: -0.01em;
-      }
-      
-      .research-showcase {
-        margin-top: 4px;
+        font-size: 1.3em;
+        margin-bottom: 10px;
       }
       
       .category {
-        background: #f9fafb;
-        border: 1px solid #e5e7eb;
-        border-radius: 5px;
-        padding: 14px 16px;
-        margin-bottom: 12px;
-      }
-      
-      .category h3 {
-        color: #111827;
-        margin: 0 0 10px 0;
-        font-size: 1.1em;
-        font-weight: 650;
-        letter-spacing: -0.01em;
-      }
-      
-      .category p {
-        margin: 6px 0;
-        color: #374151;
-        font-size: 0.95em;
-        line-height: 1.5;
+        padding: 10px 12px;
+        margin-bottom: 8px;
       }
       
       .category strong {
-        color: #4f46e5;
-        font-weight: 600;
+        min-width: 140px;
+      }
+    }
+    
+    @media (max-width: 480px) {
+      .category strong {
+        min-width: 100%;
+        margin-bottom: 3px;
+        display: block;
+      }
+      
+      .research-point {
         display: inline-block;
-        min-width: 180px;
-        font-size: 0.98em;
+        margin-bottom: 2px;
       }
-      
-      .category small {
-        color: #4b5563;
-        font-weight: 500;
-        font-size: 0.88em;
-        background: #e5e7eb;
-        padding: 2px 5px;
-        border-radius: 3px;
-        margin-left: 3px;
-        letter-spacing: -0.01em;
-      }
-      
-      .ongoing {
-        color: #92400e;
-        font-weight: 600;
-        background: #fef3c7;
-        padding: 2px 6px;
-        border-radius: 4px;
-        font-size: 0.9em;
-        border: 1px solid #fbbf24;
-      }
-      
-      @media (max-width: 768px) {
-        .interests-section {
-          padding: 10px;
-        }
-        
-        .section-title {
-          font-size: 1.4em;
-          margin-bottom: 14px;
-        }
-        
-        .category {
-          padding: 12px 14px;
-          margin-bottom: 10px;
-        }
-        
-        .category strong {
-          min-width: 160px;
-        }
-      }
-      
-      @media (max-width: 480px) {
-        .category strong {
-          min-width: 100%;
-          margin-bottom: 3px;
-          display: block;
-        }
-        
-        .category small {
-          margin-left: 0;
-          display: inline-block;
-          margin-top: 2px;
-        }
-      }
-      </style>
+    }
+    </style>
 
     <div class="page-content">
       <div class="wrapper">
