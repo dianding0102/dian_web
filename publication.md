@@ -126,7 +126,7 @@ title: "Publications"
 }
 
 .pub-author.highlight {
-  color: #4f46e5;
+  color: ##4a6ee0;
   font-weight: 700;
   background: rgba(79, 70, 229, 0.08);
   padding: 1px 4px;
@@ -176,7 +176,7 @@ title: "Publications"
 
 .corr-text {
   font-weight: 600;
-  color: #4f46e5;
+  color: ##4a6ee0;
 }
 
 .pub-award-info {
