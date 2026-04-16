@@ -292,8 +292,51 @@ title: "Publications"
           <!-- 2026年 -->
           <div class="publications-year">
             <h3>2026</h3>
-            <div class="publication-items">          
+            <div class="publication-items">    
 
+              <!-- BIND -->
+              <div class="publication-item">
+                <div class="pub-content">
+                  <h4 class="pub-title">BIND: Enabling Continuous Transaction Processing During Account Migration in Sharded Blockchains</h4>
+                  <div class="pub-authors">
+                    <span class="pub-author">Jiahao Qi</span>, 
+                    <span class="pub-author highlight">Dian Ding*</span>, 
+                    <span class="pub-author">Jie Li</span>, 
+                    <span class="pub-author">Jiannong Cao</span>, 
+                    <span class="pub-author">Yi-Chao Chen</span>, 
+                    <span class="pub-author">Guangtao Xue</span>,
+                    <span class="pub-author">Shengyun Liu</span>
+                  </div>
+                  <div class="pub-venue">
+                    <span class="venue-name">ACM WWW</span>
+                    <span class="ccf-rank">CCF-A</span>
+                  </div>
+                  <div class="pub-correspondence">
+                    <span class="corr-text">* corresponding author</span>
+                  </div>
+                </div>
+              </div>
+
+              <!-- LLM4Load -->
+              <div class="publication-item">
+                <div class="pub-content">
+                  <h4 class="pub-title">LLM4Load-Turbo: A Prompt-Driven LLM Framework with Knowledge Distillation for Efficient Multi-Scale Workload Prediction</h4>
+                  <div class="pub-authors">
+                    <span class="pub-author">Zeyuan Ding</span>, 
+                    <span class="pub-author highlight">Dian Ding*</span>, 
+                    <span class="pub-author">Jiannong Cao</span>, 
+                    <span class="pub-author">Yiming Zhang</span>, 
+                    <span class="pub-author">Guangtao Xue*</span>
+                  </div>
+                  <div class="pub-venue">
+                    <span class="venue-name">IEEE TSC</span>
+                    <span class="ccf-rank">CCF-A</span>
+                  </div>
+                  <div class="pub-correspondence">
+                    <span class="corr-text">* co-corresponding author</span>
+                  </div>
+                </div>
+              </div>
 
             </div>
           </div>
