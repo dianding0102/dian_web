@@ -288,12 +288,45 @@ title: "Publications"
         <h2 class="section-title">Selected Publications</h2>
         
         <div class="publications-container">
-          
+
+          <!-- 2026年 -->
+          <div class="publications-year">
+            <h3>2026</h3>
+            <div class="publication-items">          
+
+
+            </div>
+          </div>
+
           <!-- 2025年 -->
           <div class="publications-year">
             <h3>2025</h3>
             <div class="publication-items">
-              
+            
+              <!-- MODepth -->
+              <div class="publication-item">
+                <div class="pub-content">
+                  <h4 class="pub-title">MODepth: Benchmarking Mobile Multi-frame Monocular Depth Estimation with Optical Image Stabilization</h4>
+                  <div class="pub-authors">
+                    <span class="pub-author">Yu Lu</span>, 
+                    <span class="pub-author">Hao Pan*</span>, 
+                    <span class="pub-author highlight">Dian Ding*</span>, 
+                    <span class="pub-author">Jiatong Ding</span>, 
+                    <span class="pub-author">Yongjian Fu</span>, 
+                    <span class="pub-author">Yi-Chao Chen</span>, 
+                    <span class="pub-author">Ju Ren</span>, 
+                    <span class="pub-author">Guangtao Xue</span>
+                  </div>
+                  <div class="pub-venue">
+                    <span class="venue-name">ACM SigGraph Asia</span>
+                    <span class="ccf-rank">CCF-A</span>
+                  </div>
+                  <div class="pub-correspondence">
+                    <span class="corr-text">* co-corresponding author</span>
+                  </div>
+                </div>
+              </div>
+
               <!-- AuCom -->
               <div class="publication-item">
                 <div class="pub-content">

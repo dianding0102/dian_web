@@ -26,10 +26,10 @@ sjtu_picture:
   <div class="bio-container">
     <div class="bio-text">
       <p>
-        My name is <span class="highlight">Dian Ding</span>, I received the Ph.D in School of Computer Science at <span class="highlight">Shanghai Jiao Tong University</span> in 2023, under the supervision of Prof. Guangtao Xue and Assoc. Prof. Yichao Chen.
+        My name is <span class="highlight">Dian Ding</span>, I received the Ph.D in School of Computer Science at <span class="highlight">Shanghai Jiao Tong University</span> in 2023, under the supervision of Prof. Guangtao Xue and Assoc. Prof. Yi-Chao Chen. I am currently <span class="highlight">a postdoctoral researcher</span> in School of Computer Science and Engineering at <span class="highlight">Shanghai Jiao Tong University</span>. 
       </p>
       <p>
-        I am currently <span class="highlight">a postdoctoral researcher</span> in School of Computer Science and Engineering at <span class="highlight">Shanghai Jiao Tong University</span>. My research focuses on <span class="highlight">intelligent sensing and computing systems for the Internet of Things</span>.
+        My research focuses on \uline{\textbf{IoT-based intelligent sensing and computing systems}}, with applications in human–computer interaction and health monitoring. Mobile-device–based multimodal sensing systems are developed to integrate signals including audio, images, millimeter waves, Bluetooth, and human body capacitance. Collected multimodal data are analyzed using deep learning methods—such as convolutional networks, diffusion models, and large language models—for feature extraction, modeling, and system-level understanding, while resource scheduling, model compression, and quantization techniques enable efficient and scalable deployment of computing systems.
       </p>
   </div>
 </div>
