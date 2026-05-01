@@ -320,34 +320,6 @@ title: "Publications"
                   </div>
                 </div>
               </div>
-<!-- 
-                            <!-- LMM4PCB -->
-              <div class="publication-item">
-                <div class="pub-content">
-                  <h4 class="pub-title">LMM4-IC4K: A Large Multimodal Model Powered Integrated Circuit Footprint Geometry Understanding</h4>
-                  <div class="pub-authors">
-                    <span class="pub-author">Yida Wang</span>, 
-                    <span class="pub-author">Taiting Lu</span>, 
-                    <span class="pub-author">Runze Liu</span>, 
-                    <span class="pub-author">Lanqing Yang</span>, 
-                    <span class="pub-author">Zhe Chen</span>, 
-                    <span class="pub-author">Yuehai Wang</span>, 
-                    <span class="pub-author">Yixin Liu</span>, 
-                    <span class="pub-author">Kaiyuan Lin</span>, 
-                    <span class="pub-author">Xiaomeng Chen</span>, 
-                    <span class="pub-author highlight">Dian Ding</span>, 
-                    <span class="pub-author">Yijie Li</span>, 
-                    <span class="pub-author">Yifan Yang</span>, 
-                    <span class="pub-author">Yi-Chao Chen</span>, 
-                    <span class="pub-author">Yincheng Jin</span>, 
-                    <span class="pub-author">Mahanth Gowda</span>
-                  </div>
-                  <div class="pub-venue">
-                    <span class="venue-name">ICML</span>
-                    <span class="ccf-rank">CCF-A</span>
-                  </div>
-                </div>
-              </div> -->
 
               <!-- BIND -->
               <div class="publication-item">
