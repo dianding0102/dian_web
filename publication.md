@@ -320,7 +320,7 @@ title: "Publications"
                   </div>
                 </div>
               </div>
-
+<!-- 
                             <!-- LMM4PCB -->
               <div class="publication-item">
                 <div class="pub-content">
@@ -347,7 +347,7 @@ title: "Publications"
                     <span class="ccf-rank">CCF-A</span>
                   </div>
                 </div>
-              </div>
+              </div> -->
 
               <!-- BIND -->
               <div class="publication-item">
