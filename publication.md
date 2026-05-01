@@ -857,6 +857,7 @@ title: "Publications"
                     <span class="ccf-rank">CCF-A</span>
                   </div>
                   <div class="pub-award-info">
+                    <span class="award-icon">🏅</span>
                     <span class="award-text">World Artificial Intelligence Conference Youth Outstanding Paper Nomination Award (2021)</span>
                   </div>
                 </div>
