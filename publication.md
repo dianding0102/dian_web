@@ -295,7 +295,7 @@ title: "Publications"
             <div class="publication-items">    
 
               <!-- ClinBS -->
-              <div class="publication-item">
+              <div class="publication-item award">
                 <div class="pub-content">
                   <h4 class="pub-title">Listening Through the Noise: Cauchy-Driven Diffusion Bridges for Robust Gastrointestinal Auscultation and Clinical Benchmarking</h4>
                   <div class="pub-authors">
