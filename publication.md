@@ -316,7 +316,7 @@ title: "Publications"
                     <span class="corr-text"># first author</span>
                   </div>
                   <div class="pub-award-info">
-                    <span class="award-text">Spotlight (Top 2.2% of all submissions)</span>
+                    <span class="award-text">Spotlight Paper (Top 2.2% of all submissions)</span>
                   </div>
                 </div>
               </div>
