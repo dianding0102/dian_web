@@ -353,14 +353,14 @@ title: "Publications"
                     <span class="pub-author highlight">Dian Ding*</span>, 
                     <span class="pub-author">Jiannong Cao</span>, 
                     <span class="pub-author">Yiming Zhang</span>, 
-                    <span class="pub-author">Guangtao Xue*</span>
+                    <span class="pub-author">Guangtao Xue</span>
                   </div>
                   <div class="pub-venue">
                     <span class="venue-name">IEEE TSC</span>
                     <span class="ccf-rank">CCF-A</span>
                   </div>
                   <div class="pub-correspondence">
-                    <span class="corr-text">* co-corresponding author</span>
+                    <span class="corr-text">* corresponding author</span>
                   </div>
                 </div>
               </div>
