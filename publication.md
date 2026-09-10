@@ -371,7 +371,7 @@ title: "Publications"
                     <span class="ccf-rank">CCF-A</span>
                   </div>
                   <div class="pub-correspondence">
-                    <span class="corr-text">* corresponding author</span>
+                    <span class="corr-text">* co-corresponding author</span>
                   </div>
                 </div>
               </div>
