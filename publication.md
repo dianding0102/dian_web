@@ -321,6 +321,89 @@ title: "Publications"
                 </div>
               </div>
 
+              <!-- Ventrilo -->
+              <div class="publication-item">
+                <div class="pub-content">
+                  <h4 class="pub-title">Ventrilo: From Mobile Bowel Sound to Precision Gastrointestinal Diagnostic</h4>
+                  <div class="pub-authors">
+                    <span class="pub-author">Juntao Zhou</span>, 
+                    <span class="pub-author">Yutong Xue</span>, 
+                    <span class="pub-author">Liren Dong</span>, 
+                    <span class="pub-author">Zhuxi Chen</span>, 
+                    <span class="pub-author">Yu Lu</span>, 
+                    <span class="pub-author">Qianfei Ren</span>, 
+                    <span class="pub-author">Yida Wang</span>, 
+                    <span class="pub-author">Yongzhao Zhang</span>, 
+                    <span class="pub-author">Yijie Li</span>, 
+                    <span class="pub-author">Yi-Chao Chen</span>, 
+                    <span class="pub-author">Zhenyi Jia</span>, 
+                    <span class="pub-author highlight">Dian Ding*</span>
+                  </div>
+                  <div class="pub-venue">
+                    <span class="venue-name">ACM MobiCom</span>
+                    <span class="ccf-rank">CCF-A</span>
+                  </div>
+                  <div class="pub-correspondence">
+                    <span class="corr-text">* corresponding author</span>
+                  </div>
+                </div>
+              </div>
+
+                            <!-- Ventrilo -->
+              <div class="publication-item">
+                <div class="pub-content">
+                  <h4 class="pub-title">Polarix: Monitoring Multi-Component Liquids via Polarized Light</h4>
+                  <div class="pub-authors">
+                    <span class="pub-author">Juntao Zhou</span>, 
+                    <span class="pub-author">Longyuan Ge</span>, 
+                    <span class="pub-author">Yi-Chao Chen*</span>, 
+                    <span class="pub-author">Qianfei Ren</span>, 
+                    <span class="pub-author">Yijie Li*</span>, 
+                    <span class="pub-author highlight">Dian Ding*</span>,
+                    <span class="pub-author">Yida Wang</span>, 
+                    <span class="pub-author">Hao Pan</span>, 
+                    <span class="pub-author">Lili Qiu</span>, 
+                    <span class="pub-author">Jiadi Yu</span>, 
+                    <span class="pub-author">Guangtao Xue</span>
+                  </div>
+                  <div class="pub-venue">
+                    <span class="venue-name">ACM MobiCom</span>
+                    <span class="ccf-rank">CCF-A</span>
+                  </div>
+                  <div class="pub-correspondence">
+                    <span class="corr-text">* corresponding author</span>
+                  </div>
+                </div>
+              </div>
+
+              <!-- HyQuant -->
+              <div class="publication-item">
+                <div class="pub-content">
+                  <h4 class="pub-title">HyQuant: Hybrid-Precision Quantization for LLM Attention</h4>
+                  <div class="pub-authors">
+                    <span class="pub-author">Jiatong Ding</span>, 
+                    <span class="pub-author">Bingxin Xing</span>, 
+                    <span class="pub-author">Yu Zhang</span>, 
+                    <span class="pub-author highlight">Dian Ding*</span>, 
+                    <span class="pub-author">Xiaodong Yi</span>, 
+                    <span class="pub-author">Xianbin Ouyang</span>, 
+                    <span class="pub-author">FeiHuZhou</span>, 
+                    <span class="pub-author">Kun Zhang</span>, 
+                    <span class="pub-author">ZHENYU GUO</span>, 
+                    <span class="pub-author">Hao Pan</span>, 
+                    <span class="pub-author">Guangtao Xue</span>, 
+                    <span class="pub-author">Yiming Zhang</span>
+                  </div>
+                  <div class="pub-venue">
+                    <span class="venue-name">EMNLP</span>
+                    <span class="ccf-rank">CCF-B</span>
+                  </div>
+                  <div class="pub-correspondence">
+                    <span class="corr-text">* corresponding author</span>
+                  </div>
+                </div>
+              </div>
+
               <!-- BIND -->
               <div class="publication-item">
                 <div class="pub-content">
